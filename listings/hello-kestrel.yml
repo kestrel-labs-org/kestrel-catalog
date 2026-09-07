@@ -1,0 +1,15 @@
+id: hello-kestrel
+name: Hello Kestrel
+summary: Example listing used to demonstrate the catalog schema.
+description: |
+  This is a placeholder listing for schema and CI validation.
+  Replace or remove once real catalog entries are imported.
+categories:
+  - utilities
+licenses:
+  - CC0-1.0
+homepage: https://kestrellabs.org
+source: https://github.com/kestrel-labs-org/kestrel-catalog
+tags:
+  - example
+  - schema
