@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kestrel-labs-org/kestrel-brand/main/banners/readme-banner-1200x300.png" alt="Kestrel Labs — Open source tools for Linux" width="100%">
+</p>
+
 # Kestrel Catalog
 
 Community-maintained **app listings** for [Kestrel App Manager](https://github.com/kestrel-labs-org/kestrel-app-manager) on **Linux** (Debian-based distros and variants first).
