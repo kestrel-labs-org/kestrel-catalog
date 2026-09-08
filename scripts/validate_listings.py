@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# SPDX-FileCopyrightText: 2026 Kestrel Labs <hello@kestrellabs.org>
+# SPDX-FileCopyrightText: 2026 Jason Miller (Kestrel Labs)
 # SPDX-License-Identifier: CC0-1.0
 """Validate listing YAML files against the catalog schema."""
 
