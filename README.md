@@ -1,6 +1,6 @@
 # Kestrel Catalog
 
-Community-maintained **app listings** for [Kestrel App Manager](https://github.com/kestrel-labs-org/kestrel-app-manager).
+Community-maintained **app listings** for [Kestrel App Manager](https://github.com/kestrel-labs-org/kestrel-app-manager) on **Linux** (Debian-based distros and variants first).
 
 Listing metadata in this repository is dedicated to the public domain under **[CC0-1.0](./LICENSE)**.
 

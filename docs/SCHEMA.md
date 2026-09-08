@@ -44,7 +44,7 @@ licenses:
 homepage: https://example.org
 source: https://github.com/example/example-app
 tags:
-  - kde
+  - linux
   - example
 ```
 
