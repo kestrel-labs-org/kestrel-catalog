@@ -1,0 +1,151 @@
+{
+  "version": 1,
+  "window": "7d",
+  "updated_at": "2026-09-09T00:00:00Z",
+  "items": [
+    {
+      "id": "Firefox",
+      "name": "Firefox",
+      "icon": "",
+      "summary": "Independent web browser from Mozilla",
+      "category": "Browsers",
+      "installs": 0,
+      "uninstalls": 0,
+      "flathub_downloads": 0,
+      "apt_downloads": 0,
+      "score": 12
+    },
+    {
+      "id": "Steam",
+      "name": "Steam",
+      "icon": "",
+      "summary": "Game store and launcher from Valve",
+      "category": "Gaming",
+      "installs": 0,
+      "uninstalls": 0,
+      "flathub_downloads": 0,
+      "apt_downloads": 0,
+      "score": 11
+    },
+    {
+      "id": "VLC",
+      "name": "VLC",
+      "icon": "",
+      "summary": "Free media player for almost every format",
+      "category": "Media & Entertainment",
+      "installs": 0,
+      "uninstalls": 0,
+      "flathub_downloads": 0,
+      "apt_downloads": 0,
+      "score": 10
+    },
+    {
+      "id": "Spotify",
+      "name": "Spotify",
+      "icon": "",
+      "summary": "Music streaming",
+      "category": "Media & Entertainment",
+      "installs": 0,
+      "uninstalls": 0,
+      "flathub_downloads": 0,
+      "apt_downloads": 0,
+      "score": 9
+    },
+    {
+      "id": "LibreOffice",
+      "name": "LibreOffice",
+      "icon": "",
+      "summary": "Free office suite compatible with Microsoft Office files",
+      "category": "Productivity & Office",
+      "installs": 0,
+      "uninstalls": 0,
+      "flathub_downloads": 0,
+      "apt_downloads": 0,
+      "score": 8
+    },
+    {
+      "id": "GIMP",
+      "name": "GIMP",
+      "icon": "",
+      "summary": "GNU Image Manipulation Program",
+      "category": "Creative & Design",
+      "installs": 0,
+      "uninstalls": 0,
+      "flathub_downloads": 0,
+      "apt_downloads": 0,
+      "score": 7
+    },
+    {
+      "id": "Visual Studio Code",
+      "name": "Visual Studio Code",
+      "icon": "",
+      "summary": "Code editor from Microsoft",
+      "category": "Development",
+      "installs": 0,
+      "uninstalls": 0,
+      "flathub_downloads": 0,
+      "apt_downloads": 0,
+      "score": 6
+    },
+    {
+      "id": "Discord",
+      "name": "Discord",
+      "icon": "",
+      "summary": "Voice, video, and text chat",
+      "category": "Communication",
+      "installs": 0,
+      "uninstalls": 0,
+      "flathub_downloads": 0,
+      "apt_downloads": 0,
+      "score": 5
+    },
+    {
+      "id": "Google Chrome",
+      "name": "Google Chrome",
+      "icon": "",
+      "summary": "Web browser from Google",
+      "category": "Browsers",
+      "installs": 0,
+      "uninstalls": 0,
+      "flathub_downloads": 0,
+      "apt_downloads": 0,
+      "score": 4
+    },
+    {
+      "id": "OBS Studio",
+      "name": "OBS Studio",
+      "icon": "",
+      "summary": "Free software for live streaming and recording",
+      "category": "Media & Entertainment",
+      "installs": 0,
+      "uninstalls": 0,
+      "flathub_downloads": 0,
+      "apt_downloads": 0,
+      "score": 3
+    },
+    {
+      "id": "Telegram Desktop",
+      "name": "Telegram Desktop",
+      "icon": "",
+      "summary": "Secure messaging app with a native Linux client",
+      "category": "Communication",
+      "installs": 0,
+      "uninstalls": 0,
+      "flathub_downloads": 0,
+      "apt_downloads": 0,
+      "score": 2
+    },
+    {
+      "id": "Cursor",
+      "name": "Cursor",
+      "icon": "",
+      "summary": "AI-assisted code editor",
+      "category": "Development",
+      "installs": 0,
+      "uninstalls": 0,
+      "flathub_downloads": 0,
+      "apt_downloads": 0,
+      "score": 1
+    }
+  ]
+}

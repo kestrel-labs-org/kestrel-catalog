@@ -1,0 +1,156 @@
+{
+  "version": 1,
+  "categories": [
+    {
+      "name": "Browsers",
+      "tokens": ["WebBrowser"],
+      "exclude": [],
+      "keywords": [],
+      "strong_keywords": []
+    },
+    {
+      "name": "Communication",
+      "tokens": ["InstantMessaging", "Chat", "Email", "VideoConference"],
+      "exclude": ["WebBrowser"],
+      "keywords": [],
+      "strong_keywords": []
+    },
+    {
+      "name": "Media & Entertainment",
+      "tokens": ["Player", "Music", "TV", "Audio", "Video", "AudioVideo"],
+      "exclude": [],
+      "keywords": [],
+      "strong_keywords": []
+    },
+    {
+      "name": "Gaming",
+      "tokens": ["Game"],
+      "exclude": [],
+      "keywords": [],
+      "strong_keywords": []
+    },
+    {
+      "name": "Productivity & Office",
+      "tokens": ["Office"],
+      "exclude": [],
+      "keywords": [],
+      "strong_keywords": []
+    },
+    {
+      "name": "Cloud Storage & Sync",
+      "tokens": ["FileTransfer", "P2P"],
+      "exclude": [],
+      "keywords": [],
+      "strong_keywords": []
+    },
+    {
+      "name": "Creative & Design",
+      "tokens": ["Graphics", "Photography", "AudioVideoEditing"],
+      "exclude": [],
+      "keywords": [],
+      "strong_keywords": []
+    },
+    {
+      "name": "Utilities & Tools",
+      "tokens": ["Utility", "System", "Settings"],
+      "exclude": [],
+      "keywords": [],
+      "strong_keywords": []
+    },
+    {
+      "name": "Development",
+      "tokens": ["Development"],
+      "exclude": [],
+      "keywords": [],
+      "strong_keywords": []
+    },
+    {
+      "name": "AI",
+      "tokens": [],
+      "exclude": [],
+      "keywords": [
+        "ai",
+        "a.i.",
+        "artificial intelligence",
+        "llm",
+        "language model",
+        "ollama",
+        "lmstudio",
+        "lm studio",
+        "gpt4all",
+        "chatgpt",
+        "claude",
+        "copilot",
+        "lemonade",
+        "open-webui",
+        "open webui",
+        "ai-powered",
+        "ai powered",
+        "gemini desktop",
+        "google gemini",
+        "local ai",
+        "ai models",
+        "ai assistant",
+        "ai chatbot",
+        "ai chat",
+        "qwen",
+        "qwen3",
+        "qwen2",
+        "gguf",
+        "vllm",
+        "local llm",
+        "inference",
+        "large language",
+        "kobold",
+        "llama",
+        "mistral",
+        "grok",
+        "local model",
+        "text-generation",
+        "stable diffusion",
+        "comfyui"
+      ],
+      "strong_keywords": [
+        "llm",
+        "language model",
+        "ollama",
+        "lmstudio",
+        "lm studio",
+        "gpt4all",
+        "chatgpt",
+        "claude",
+        "copilot",
+        "lemonade",
+        "open-webui",
+        "open webui",
+        "ai-powered",
+        "ai powered",
+        "gemini desktop",
+        "google gemini",
+        "local ai",
+        "ai models",
+        "ai assistant",
+        "ai chatbot",
+        "ai chat",
+        "large language",
+        "qwen",
+        "qwen3",
+        "qwen2",
+        "gguf",
+        "vllm",
+        "local llm",
+        "inference",
+        "kobold",
+        "llama",
+        "mistral"
+      ]
+    },
+    {
+      "name": "Security",
+      "tokens": ["Security"],
+      "exclude": [],
+      "keywords": [],
+      "strong_keywords": []
+    }
+  ]
+}

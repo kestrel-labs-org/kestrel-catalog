@@ -1,0 +1,95 @@
+{
+  "version": 1,
+  "picks": [
+    {
+      "id": "firefox",
+      "app_key": "Firefox",
+      "note": "Private, independent browser — a solid default on Linux.",
+      "sort_order": 0,
+      "name": "Firefox",
+      "icon": "https://dl.flathub.org/repo/appstream/x86_64/icons/128x128/org.mozilla.firefox.png",
+      "summary": "Fast, Private & Safe Web Browser",
+      "category": "Browsers"
+    },
+    {
+      "id": "b5e21228-c802-4df0-a324-5c656e153546",
+      "app_key": "lm-studio",
+      "note": "Run local LLMs without sending your prompts to the cloud.",
+      "sort_order": 1,
+      "name": "LM Studio",
+      "icon": "https://dl.flathub.org/repo/appstream/x86_64/icons/128x128/ai.lmstudio.lm-studio.png",
+      "summary": "Run AI models, locally and privately",
+      "category": "AI"
+    },
+    {
+      "id": "libreoffice",
+      "app_key": "LibreOffice",
+      "note": "Full office suite that opens the documents people already have.",
+      "sort_order": 2,
+      "name": "LibreOffice",
+      "icon": "https://dl.flathub.org/repo/appstream/x86_64/icons/128x128/org.libreoffice.LibreOffice.png",
+      "summary": "Launch applications to create text documents, spreadsheets, presentations, drawings, formulas, and databases, or open recently used documents.",
+      "category": "Productivity & Office"
+    },
+    {
+      "id": "vlc",
+      "app_key": "VLC",
+      "note": "Plays almost anything, without hunting for codecs.",
+      "sort_order": 3,
+      "name": "VLC",
+      "icon": "https://dashboard.snapcraft.io/site_media/appmedia/2016/07/vlc.png",
+      "summary": "VLC media player, the open-source multimedia player",
+      "category": "Media & Entertainment"
+    },
+    {
+      "id": "gimp",
+      "app_key": "GIMP",
+      "note": "The open photo editor people actually finish work in.",
+      "sort_order": 4,
+      "name": "GIMP",
+      "icon": "",
+      "summary": "The open photo editor people actually finish work in.",
+      "category": "Utilities & Tools"
+    },
+    {
+      "id": "steam",
+      "app_key": "Steam",
+      "note": "The library most Linux gamers already use.",
+      "sort_order": 5,
+      "name": "Steam",
+      "icon": "https://dl.flathub.org/repo/appstream/x86_64/icons/128x128/com.valvesoftware.Steam.png",
+      "summary": "Launcher for the Steam software distribution service",
+      "category": "Gaming"
+    },
+    {
+      "id": "obs-studio",
+      "app_key": "OBS Studio",
+      "note": "Record and stream without a vendor lock-in.",
+      "sort_order": 6,
+      "name": "OBS Studio",
+      "icon": "",
+      "summary": "Live stream and record videos",
+      "category": "Media & Entertainment"
+    },
+    {
+      "id": "visual-studio-code",
+      "app_key": "Visual Studio Code",
+      "note": "The editor most developers reach for first.",
+      "sort_order": 7,
+      "name": "Visual Studio Code",
+      "icon": "https://dl.flathub.org/repo/appstream/x86_64/icons/128x128/com.visualstudio.code.png",
+      "summary": "Code editing. Redefined.",
+      "category": "Development"
+    },
+    {
+      "id": "telegram-desktop",
+      "app_key": "Telegram Desktop",
+      "note": "Fast, lightweight messenger that works well on the Linux desktop.",
+      "sort_order": 8,
+      "name": "Telegram Desktop",
+      "icon": "",
+      "summary": "Fast, lightweight messenger that works well on the Linux desktop.",
+      "category": "Utilities & Tools"
+    }
+  ]
+}
