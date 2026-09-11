@@ -4,6 +4,7 @@ from __future__ import annotations
 
 import argparse
 import json
+import re
 import sys
 from pathlib import Path
 from urllib.parse import urlparse
@@ -23,6 +24,7 @@ CATEGORIES = {
     "Security",
 }
 KINDS = {"repo", "deb", "ppa", "link", "appimage"}
+WATCH_OK = re.compile(r"^[a-z0-9][a-z0-9-]{0,62}$")
 BANNED = {"promote", "sponsored", "disclosure"}
 AGE_RATINGS = {"everyone", "everyone-10", "teen", "mature", "adult"}
 REPO_REQUIRED = ("key_url", "keyring", "deb_line", "list_file")
@@ -131,8 +133,12 @@ def validate_vendor(allow_verified: bool) -> int:
             elif url:
                 if not http_url(url):
                     fail(f"{name}: url must be an http(s) URL")
-                if not str(app.get("watch") or "").strip():
-                    fail(f"{name}: url AppImages require watch")
+                watch = str(app.get("watch") or "").strip()
+                if not WATCH_OK.match(watch):
+                    fail(
+                        f"{name}: watch must be a lowercase slug "
+                        "(a-z, 0-9, hyphens), e.g. lm-studio-linux"
+                    )
             else:
                 fail(f"{name}: appimage listings require github or url")
     return len(apps)

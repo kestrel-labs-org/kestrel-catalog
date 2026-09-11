@@ -78,7 +78,7 @@ on the same card.
 Provide **either**:
 
 - `github` (`owner/repo`) and optional `asset` glob (`{arch}` / `{x64}` / `{amd64}`), or
-- `url` (download URL, may include `{arch}` / `{x64}`) **and** `watch` (stable id Kestrel owns)
+- `url` (download URL, may include `{arch}` / `{x64}`) **and** `watch` (lowercase slug `[a-z0-9-]`, e.g. `lm-studio-linux`; stable id Kestrel owns)
 
 Optional: `self_update` (app updates itself), `apparmor` (needs a userns profile on Ubuntu 24.04+), `deb_asset` (`.deb` on the same GitHub release).
 
