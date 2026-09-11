@@ -24876,10 +24876,11 @@
       "category": "AI",
       "kind": "appimage",
       "summary": "Local and cloud LLM chat client",
-      "homepage": "https://msty.app",
-      "github": "mstyapp/msty",
+      "homepage": "https://msty.ai",
+      "url": "https://next-assets.msty.studio/app/latest/linux/MstyStudio_x86_64.AppImage",
+      "apparmor": true,
       "description": "Msty is a desktop client for local and cloud language models. Linux builds are published by the vendor; treat availability as best-effort.",
-      "icon": "https://msty.app/favicon.ico",
+      "icon": "https://msty.ai/favicon.ico",
       "unofficial": true
     },
     {
