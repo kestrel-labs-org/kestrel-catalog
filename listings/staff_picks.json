@@ -72,23 +72,23 @@
       "category": "Browsers"
     },
     {
-      "id": "59c360d3-092b-4721-86a5-370d1ce98ad4",
-      "app_key": "Remmina",
-      "note": "Remmina is a remote-desktop client written in GTK, to\n      use other desktops remotely, from a tiny screen or large monitors.\n    \n\n      Remmina supports multiple network protocols in an integrated and\n      consistent user interface. The protocols currently supported are:\n        X2Go, RDP (Remote Desktop Protocol), VNC (Virtual Network Computing),\n        and SSH (Secure Shell / Open SSH).\n    \n\n      External plugins are also supported to add new protocols and features.",
-      "sort_order": 7,
-      "name": "Remmina",
-      "icon": "https://dashboard.snapcraft.io/site_media/appmedia/2018/11/org.remmina.Remmina.png",
-      "summary": "Remote Desktop Client",
-      "category": "Productivity & Office"
-    },
-    {
       "id": "libreoffice",
       "app_key": "LibreOffice",
       "note": "Full office suite that opens the documents people already have.",
-      "sort_order": 8,
+      "sort_order": 7,
       "name": "LibreOffice",
       "icon": "https://dl.flathub.org/repo/appstream/x86_64/icons/128x128/org.libreoffice.LibreOffice.png",
       "summary": "Launch applications to create text documents, spreadsheets, presentations, drawings, formulas, and databases, or open recently used documents.",
+      "category": "Productivity & Office"
+    },
+    {
+      "id": "59c360d3-092b-4721-86a5-370d1ce98ad4",
+      "app_key": "Remmina",
+      "note": "Remmina is a remote-desktop client written in GTK, to\n      use other desktops remotely, from a tiny screen or large monitors.\n    \n\n      Remmina supports multiple network protocols in an integrated and\n      consistent user interface. The protocols currently supported are:\n        X2Go, RDP (Remote Desktop Protocol), VNC (Virtual Network Computing),\n        and SSH (Secure Shell / Open SSH).\n    \n\n      External plugins are also supported to add new protocols and features.",
+      "sort_order": 8,
+      "name": "Remmina",
+      "icon": "https://dashboard.snapcraft.io/site_media/appmedia/2018/11/org.remmina.Remmina.png",
+      "summary": "Remote Desktop Client",
       "category": "Productivity & Office"
     },
     {
