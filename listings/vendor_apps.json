@@ -1154,9 +1154,9 @@
       "summary": "Zero-knowledge encrypted cloud storage",
       "homepage": "https://internxt.com",
       "github": "internxt/drive-desktop-linux",
+      "asset": "Internxt-*.AppImage",
       "deb_asset": "internxt_*_amd64.deb",
       "source_page": "https://portable-linux-apps.github.io/app/internxt-drive.html",
-      "asset": "Internxt-*.AppImage",
       "license": "AGPL-3.0",
       "publisher": "internxt",
       "description": "Internxt Drive is an open-source, zero-knowledge encrypted cloud storage service. Download the Linux .deb from the Internxt website.",
@@ -1775,9 +1775,9 @@
       "homepage": "https://pinokio.computer",
       "github": "pinokiocomputer/pinokio",
       "asset": "Pinokio-*.AppImage",
-      "apparmor": true,
       "deb_asset": "Pinokio_*_amd64.deb",
       "source_page": "https://portable-linux-apps.github.io/app/pinokio.html",
+      "apparmor": true,
       "license": "MIT",
       "publisher": "pinokiocomputer",
       "description": "Pinokio discovers, installs, and runs local AI applications and models with one click. Kestrel installs the official Linux AppImage from GitHub releases. Use it to run ComfyUI, Fooocus, and similar git-based AI apps rather than packaging those yourself.",
@@ -1806,9 +1806,9 @@
       "homepage": "https://www.cherry-ai.com",
       "github": "CherryHQ/cherry-studio",
       "asset": "Cherry-Studio-*-linux-{x64}.AppImage",
-      "apparmor": true,
       "deb_asset": "Cherry-Studio-*-linux-*.deb",
       "source_page": "https://portable-linux-apps.github.io/app/cherry-studio.html",
+      "apparmor": true,
       "license": "AGPL-3.0",
       "publisher": "CherryHQ",
       "description": "Cherry Studio is a desktop AI assistant supporting multiple LLM providers, knowledge bases, and assistants. Kestrel installs the official Linux AppImage from GitHub releases.",
@@ -1834,9 +1834,9 @@
       "homepage": "https://jan.ai",
       "github": "janhq/jan",
       "asset": "Jan_*_amd64.AppImage",
-      "apparmor": true,
       "deb_asset": "Jan_*_amd64.deb",
       "source_page": "https://appimage.github.io/Jan/",
+      "apparmor": true,
       "publisher": "janhq",
       "package": "jan",
       "flatpak": "ai.jan.Jan",
@@ -1867,8 +1867,8 @@
       "homepage": "https://anythingllm.com",
       "github": "Mintplex-Labs/anything-llm",
       "asset": "AnythingLLMDesktop.AppImage",
-      "apparmor": true,
       "source_page": "https://portable-linux-apps.github.io/app/anything-llm.html",
+      "apparmor": true,
       "license": "MIT",
       "publisher": "Mintplex-Labs",
       "description": "AnythingLLM Desktop is a local retrieval-augmented chat app for documents and knowledge bases. Kestrel installs the official Linux AppImage from GitHub releases.",
@@ -1900,8 +1900,8 @@
       "homepage": "https://github.com/mifi/lossless-cut",
       "github": "mifi/lossless-cut",
       "asset": "LosslessCut-linux-{arch}.AppImage",
-      "apparmor": true,
       "source_page": "https://appimage.github.io/LosslessCut/",
+      "apparmor": true,
       "license": "GPL-2.0",
       "publisher": "mifi",
       "description": "LosslessCut trims and cuts video without re-encoding. Kestrel installs the official Linux AppImage from GitHub releases.",
@@ -2159,9 +2159,9 @@
       "homepage": "https://nuclear.js.org",
       "github": "nukeop/nuclear",
       "asset": "Nuclear_*_amd64.AppImage",
-      "apparmor": true,
       "deb_asset": "Nuclear_*_amd64.deb",
       "source_page": "https://portable-linux-apps.github.io/app/nuclear.html",
+      "apparmor": true,
       "license": "AGPL-3.0",
       "publisher": "nukeop",
       "description": "Nuclear is a free streaming music player that aggregates sources without a central server. Kestrel installs the official Linux AppImage from GitHub releases.",
@@ -2192,8 +2192,8 @@
       "homepage": "https://logseq.com",
       "github": "logseq/logseq",
       "asset": "Logseq-linux-{arch}-*.AppImage",
-      "apparmor": true,
       "source_page": "https://portable-linux-apps.github.io/app/logseq.html",
+      "apparmor": true,
       "license": "AGPL-3.0",
       "publisher": "logseq",
       "flatpak": "com.logseq.Logseq",
@@ -2208,9 +2208,9 @@
       "homepage": "https://appflowy.io",
       "github": "AppFlowy-IO/AppFlowy",
       "asset": "AppFlowy-*-linux-x86_64.AppImage",
-      "apparmor": true,
       "deb_asset": "AppFlowy-*-linux-x86_64.deb",
       "source_page": "https://portable-linux-apps.github.io/app/appflowy.html",
+      "apparmor": true,
       "license": "AGPL-3.0",
       "publisher": "AppFlowy-IO",
       "description": "AppFlowy is an open-source workspace for notes, tasks, and databases. Kestrel installs the official Linux AppImage from GitHub releases.",
@@ -2224,9 +2224,9 @@
       "homepage": "https://affine.pro",
       "github": "toeverything/AFFiNE",
       "asset": "affine-*-stable-linux-x64.appimage",
-      "apparmor": true,
       "deb_asset": "affine-*-canary-linux-x64.deb",
       "source_page": "https://portable-linux-apps.github.io/app/affine.html",
+      "apparmor": true,
       "publisher": "toeverything",
       "description": "AFFiNE combines docs, whiteboards, and databases in one local-first workspace. Kestrel installs the official Linux AppImage from GitHub releases.",
       "icon": "https://github.com/toeverything.png?size=256"
@@ -2239,9 +2239,9 @@
       "homepage": "https://b3log.org/siyuan/",
       "github": "siyuan-note/siyuan",
       "asset": "siyuan-*-linux.AppImage",
-      "apparmor": true,
       "deb_asset": "siyuan-*-linux.deb",
       "source_page": "https://portable-linux-apps.github.io/app/siyuan.html",
+      "apparmor": true,
       "license": "AGPL-3.0",
       "publisher": "siyuan-note",
       "description": "SiYuan is a privacy-first, self-contained block-based PKM. Kestrel installs the official Linux AppImage from GitHub releases.",
@@ -2267,9 +2267,9 @@
       "homepage": "https://joplinapp.org",
       "github": "laurent22/joplin",
       "asset": "Joplin-*.AppImage",
-      "apparmor": true,
       "deb_asset": "Joplin-*.deb",
       "source_page": "https://appimage.github.io/Joplin/",
+      "apparmor": true,
       "license": "MIT",
       "publisher": "laurent22",
       "snap": "joplin-desktop",
@@ -2350,8 +2350,8 @@
       "homepage": "https://www.arduino.cc/en/software",
       "github": "arduino/arduino-ide",
       "asset": "arduino-ide_*_Linux_64bit.AppImage",
-      "apparmor": true,
       "source_page": "https://appimage.github.io/Arduino_IDE/",
+      "apparmor": true,
       "license": "AGPL-3.0",
       "publisher": "arduino",
       "flatpak": "cc.arduino.IDE2",
@@ -2369,9 +2369,9 @@
       "homepage": "https://www.beekeeperstudio.io",
       "github": "beekeeper-studio/beekeeper-studio",
       "asset": "Beekeeper-Studio-*.AppImage",
-      "apparmor": true,
       "deb_asset": "beekeeper-studio_*_amd64.deb",
       "source_page": "https://appimage.github.io/Beekeeper_Studio/",
+      "apparmor": true,
       "publisher": "beekeeper-studio",
       "description": "Beekeeper Studio is a cross-platform SQL client. Kestrel installs the official Linux AppImage from GitHub releases.",
       "icon": "https://github.com/beekeeper-studio.png?size=256",
@@ -2387,9 +2387,9 @@
       "homepage": "https://www.usebruno.com",
       "github": "usebruno/bruno",
       "asset": "bruno_*_{arch}_linux.AppImage",
-      "apparmor": true,
       "deb_asset": "bruno_*_amd64_linux.deb",
       "source_page": "https://portable-linux-apps.github.io/app/bruno.html",
+      "apparmor": true,
       "license": "MIT",
       "publisher": "usebruno",
       "description": "Bruno is an offline-first API client that stores collections as files. Kestrel installs the official Linux AppImage from GitHub releases.",
@@ -2403,8 +2403,8 @@
       "homepage": "https://httpie.io/desktop",
       "github": "httpie/desktop",
       "asset": "HTTPie-*.AppImage",
-      "apparmor": true,
       "source_page": "https://portable-linux-apps.github.io/app/httpie-desktop.html",
+      "apparmor": true,
       "publisher": "httpie",
       "description": "HTTPie Desktop is a graphical API client. Kestrel installs the official Linux AppImage from GitHub releases.",
       "icon": "https://github.com/httpie.png?size=256"
@@ -2595,9 +2595,9 @@
       "homepage": "https://github.com/IsmaelMartinez/teams-for-linux",
       "github": "IsmaelMartinez/teams-for-linux",
       "asset": "teams-for-linux-*.AppImage",
-      "apparmor": true,
       "deb_asset": "teams-for-linux_*_amd64.deb",
       "source_page": "https://portable-linux-apps.github.io/app/teams.html",
+      "apparmor": true,
       "license": "GPL-3.0",
       "publisher": "IsmaelMartinez",
       "description": "A community Electron wrapper for Microsoft Teams. Not published by Microsoft. Kestrel installs the Linux AppImage from GitHub releases.",
@@ -2612,8 +2612,8 @@
       "homepage": "https://revolt.chat",
       "github": "revoltchat/desktop",
       "asset": "Revolt-*.AppImage",
-      "apparmor": true,
       "source_page": "https://portable-linux-apps.github.io/app/revolt.html",
+      "apparmor": true,
       "license": "AGPL-3.0",
       "publisher": "revoltchat",
       "description": "Revolt is an open-source chat platform. Kestrel installs the official Linux AppImage from GitHub releases.",
@@ -2668,9 +2668,9 @@
       "homepage": "https://filen.io",
       "github": "FilenCloudDienste/filen-desktop",
       "asset": "Filen_linux_{arch}.AppImage",
-      "apparmor": true,
       "deb_asset": "Filen_linux_amd64.deb",
       "source_page": "https://portable-linux-apps.github.io/app/filen.html",
+      "apparmor": true,
       "license": "AGPL-3.0",
       "publisher": "FilenCloudDienste",
       "description": "Filen is end-to-end encrypted cloud storage. Kestrel installs the official Linux AppImage from GitHub releases.",
@@ -2690,955 +2690,6 @@
       "publisher": "LedgerHQ",
       "description": "Ledger Live manages Ledger hardware wallets and crypto accounts. Kestrel installs the official Linux AppImage; updates are detected when the vendor download changes.",
       "icon": "https://github.com/LedgerHQ.png?size=256"
-    },
-    {
-      "name": "OpenSnitch",
-      "category": "Security",
-      "kind": "appimage",
-      "summary": "GNU/Linux interactive application firewall",
-      "homepage": "https://github.com/evilsocket/opensnitch",
-      "github": "evilsocket/opensnitch",
-      "license": "GPL-3.0",
-      "publisher": "evilsocket",
-      "description": "OpenSnitch is an interactive outbound application firewall for GNU/Linux. Community .deb and AppImage builds are published on GitHub releases.",
-      "icon": "https://github.com/evilsocket.png?size=256",
-      "unofficial": true
-    },
-    {
-      "name": "Cryptomator",
-      "category": "Security",
-      "kind": "ppa",
-      "summary": "Client-side encryption for your cloud storage",
-      "homepage": "https://cryptomator.org",
-      "ppa": "ppa:sebastian-stenzel/cryptomator",
-      "package": "cryptomator",
-      "flatpak": "org.cryptomator.Cryptomator",
-      "description": "Cryptomator encrypts files before they reach Dropbox, Google Drive, or any other cloud. Installed from the official Cryptomator PPA.",
-      "icon": "https://cryptomator.org/favicon.ico"
-    },
-    {
-      "name": "Firefox",
-      "category": "Browsers",
-      "kind": "repo",
-      "summary": "Independent web browser from Mozilla",
-      "homepage": "https://www.mozilla.org/firefox/",
-      "repo": {
-        "key_url": "https://packages.mozilla.org/apt/repo-signing-key.gpg",
-        "keyring": "/etc/apt/keyrings/packages.mozilla.org.asc",
-        "deb_line": "deb [signed-by=/etc/apt/keyrings/packages.mozilla.org.asc] https://packages.mozilla.org/apt mozilla main",
-        "list_file": "/etc/apt/sources.list.d/mozilla.list"
-      },
-      "package": "firefox",
-      "snap": "firefox",
-      "flatpak": "org.mozilla.firefox",
-      "description": "Firefox is Mozilla's independent, open-source web browser with strong privacy defaults. Installed from Mozilla's official apt repository so it is not replaced by the Ubuntu snap transition package.",
-      "icon": "https://www.mozilla.org/media/img/favicons/firefox/browser/apple-touch-icon.79c2a2cf0c4d.png"
-    },
-    {
-      "name": "Brave",
-      "category": "Browsers",
-      "kind": "repo",
-      "summary": "Privacy-focused Chromium browser from Brave Software",
-      "homepage": "https://brave.com",
-      "repo": {
-        "key_url": "https://brave-browser-apt-release.s3.brave.com/brave-browser-archive-keyring.gpg",
-        "keyring": "/usr/share/keyrings/brave-browser-archive-keyring.gpg",
-        "deb_line": "deb [signed-by=/usr/share/keyrings/brave-browser-archive-keyring.gpg] https://brave-browser-apt-release.s3.brave.com/ stable main",
-        "list_file": "/etc/apt/sources.list.d/brave-browser-release.list"
-      },
-      "package": "brave-browser",
-      "snap": "brave",
-      "flatpak": "com.brave.Browser",
-      "description": "Brave blocks ads and trackers by default and includes an optional private browsing mode with Tor. Installed from Brave's official apt repository.",
-      "icon": "https://brave.com/static-assets/images/brave-favicon.png"
-    },
-    {
-      "name": "Opera",
-      "category": "Browsers",
-      "kind": "repo",
-      "summary": "Chromium-based browser with a built-in VPN and workspace",
-      "homepage": "https://www.opera.com",
-      "repo": {
-        "key_url": "https://deb.opera.com/archive.key",
-        "keyring": "/usr/share/keyrings/opera-archive-keyring.gpg",
-        "deb_line": "deb [signed-by=/usr/share/keyrings/opera-archive-keyring.gpg] https://deb.opera.com/opera-stable/ stable non-free",
-        "list_file": "/etc/apt/sources.list.d/opera-stable.list",
-        "dearmor": true
-      },
-      "package": "opera-stable",
-      "snap": "opera",
-      "flatpak": "com.opera.Opera",
-      "description": "Opera includes a sidebar, workspaces, and an optional built-in VPN. The .deb registers Opera's apt repository so the browser updates through apt.",
-      "icon": "https://www.opera.com/public/images/favicon/apple-icon-180x180.png"
-    },
-    {
-      "name": "LibreWolf",
-      "category": "Browsers",
-      "kind": "repo",
-      "summary": "Privacy-hardened Firefox fork",
-      "homepage": "https://librewolf.net",
-      "repo": {
-        "key_url": "https://repo.librewolf.net/pubkey.gpg",
-        "keyring": "/usr/share/keyrings/librewolf.gpg",
-        "deb_line": "deb [arch=amd64,arm64 signed-by=/usr/share/keyrings/librewolf.gpg] https://repo.librewolf.net librewolf main",
-        "list_file": "/etc/apt/sources.list.d/librewolf.list",
-        "dearmor": true
-      },
-      "package": "librewolf",
-      "flatpak": "io.gitlab.librewolf-community",
-      "description": "LibreWolf is a community fork of Firefox with telemetry removed and stricter privacy defaults. Installed from the official LibreWolf apt repository.",
-      "icon": "https://librewolf.net/favicon.ico"
-    },
-    {
-      "name": "Ungoogled Chromium",
-      "category": "Browsers",
-      "kind": "repo",
-      "summary": "Chromium without Google web services",
-      "homepage": "https://github.com/ungoogled-software/ungoogled-chromium",
-      "repo": {
-        "key_url": "https://download.opensuse.org/repositories/home:ungoogled_chromium/Ubuntu_$(lsb_release -rs)/Release.key",
-        "keyring": "/usr/share/keyrings/ungoogled-chromium.gpg",
-        "deb_line": "deb [signed-by=/usr/share/keyrings/ungoogled-chromium.gpg] https://download.opensuse.org/repositories/home:/ungoogled_chromium/Ubuntu_$(lsb_release -rs)/ /",
-        "list_file": "/etc/apt/sources.list.d/ungoogled-chromium.list",
-        "dearmor": true
-      },
-      "package": "ungoogled-chromium",
-      "flatpak": "io.github.ungoogled_software.ungoogled_chromium",
-      "description": "Ungoogled Chromium is a community build of Chromium with Google integration removed. Installed from the OBS repository; also available on Flathub.",
-      "icon": "https://github.com/ungoogled-software.png?size=256",
-      "unofficial": true
-    },
-    {
-      "name": "Signal",
-      "category": "Communication",
-      "kind": "repo",
-      "summary": "Private messenger with end-to-end encryption",
-      "homepage": "https://signal.org",
-      "repo": {
-        "key_url": "https://updates.signal.org/desktop/apt/keys.asc",
-        "keyring": "/usr/share/keyrings/signal-desktop-keyring.gpg",
-        "deb_line": "deb [arch=amd64 signed-by=/usr/share/keyrings/signal-desktop-keyring.gpg] https://updates.signal.org/desktop/apt xenial main",
-        "list_file": "/etc/apt/sources.list.d/signal-desktop.list",
-        "dearmor": true
-      },
-      "package": "signal-desktop",
-      "flatpak": "org.signal.Signal",
-      "description": "Signal Desktop is the official Linux client for Signal, with end-to-end encryption by default. Installed from Signal's official apt repository — the Flathub build is community-maintained.",
-      "icon": "https://signal.org/favicons/favicon.ico"
-    },
-    {
-      "name": "Zoom",
-      "category": "Communication",
-      "kind": "deb",
-      "summary": "Video meetings and webinars",
-      "homepage": "https://zoom.us",
-      "deb_url": "https://zoom.us/client/latest/zoom_amd64.deb",
-      "package": "zoom",
-      "snap": "zoom-client",
-      "flatpak": "us.zoom.Zoom",
-      "description": "Zoom's Linux desktop client for meetings, webinars, and chat. Installs the official Zoom .deb, which updates from Zoom's own repository afterward.",
-      "icon": "https://st1.zoom.us/zoom.ico"
-    },
-    {
-      "name": "Slack",
-      "category": "Communication",
-      "kind": "deb",
-      "summary": "Team messaging and collaboration",
-      "homepage": "https://slack.com",
-      "deb_url": "https://slack.com/ssb/download-linux?type=deb",
-      "deb_is_setup": true,
-      "package": "slack-desktop",
-      "snap": "slack",
-      "flatpak": "com.slack.Slack",
-      "description": "Slack for Linux. The .deb registers Slack's apt repository so the app updates through your normal system updates.",
-      "icon": "https://a.slack-edge.com/80588/marketing/img/meta/favicon-32.png"
-    },
-    {
-      "name": "Discord",
-      "category": "Communication",
-      "kind": "deb",
-      "summary": "Voice, video, and text chat for communities",
-      "homepage": "https://discord.com",
-      "deb_url": "https://discord.com/api/download?platform=linux&format=deb",
-      "package": "discord",
-      "snap": "discord",
-      "flatpak": "com.discordapp.Discord",
-      "description": "Discord's official Linux desktop client. Installs the latest .deb from Discord; the app nags when a newer version is available.",
-      "icon": "https://discord.com/assets/favicon.ico"
-    },
-    {
-      "name": "Element",
-      "category": "Communication",
-      "kind": "repo",
-      "summary": "Matrix messenger from the Element team",
-      "homepage": "https://element.io",
-      "repo": {
-        "key_url": "https://packages.element.io/debian/element-io-archive-keyring.gpg",
-        "keyring": "/usr/share/keyrings/element-io-archive-keyring.gpg",
-        "deb_line": "deb [signed-by=/usr/share/keyrings/element-io-archive-keyring.gpg] https://packages.element.io/debian/ default main",
-        "list_file": "/etc/apt/sources.list.d/element-io.list"
-      },
-      "package": "element-desktop",
-      "snap": "element-desktop",
-      "flatpak": "im.riot.Riot",
-      "description": "Element is the flagship Matrix client for encrypted team chat. Installed from Element's official apt repository.",
-      "icon": "https://element.io/images/favicon.ico"
-    },
-    {
-      "name": "Mattermost",
-      "category": "Communication",
-      "kind": "repo",
-      "summary": "Self-hosted team messaging",
-      "homepage": "https://mattermost.com",
-      "repo": {
-        "key_url": "https://deb.packages.mattermost.com/pubkey.gpg",
-        "keyring": "/usr/share/keyrings/mattermost-archive-keyring.gpg",
-        "deb_line": "deb [signed-by=/usr/share/keyrings/mattermost-archive-keyring.gpg] https://deb.packages.mattermost.com stable main",
-        "list_file": "/etc/apt/sources.list.d/mattermost.list",
-        "dearmor": true
-      },
-      "package": "mattermost-desktop",
-      "snap": "mattermost-desktop",
-      "flatpak": "com.mattermost.Desktop",
-      "description": "Mattermost Desktop is the official client for Mattermost servers. Installed from Mattermost's official apt repository.",
-      "icon": "https://mattermost.com/favicon.ico"
-    },
-    {
-      "name": "Zulip",
-      "category": "Communication",
-      "kind": "appimage",
-      "summary": "Threaded team chat",
-      "homepage": "https://zulip.com",
-      "github": "zulip/zulip-desktop",
-      "asset": "Zulip-*.{arch}.AppImage",
-      "deb_asset": "Zulip-*-amd64.deb",
-      "source_page": "https://portable-linux-apps.github.io/app/zulip.html",
-      "license": "Apache-2.0",
-      "publisher": "zulip",
-      "snap": "zulip",
-      "flatpak": "org.zulip.Zulip",
-      "description": "Zulip organizes conversations into topic threads. Official Linux builds are published on GitHub releases.",
-      "icon": "https://zulip.com/favicon.ico"
-    },
-    {
-      "name": "Rocket.Chat",
-      "category": "Communication",
-      "kind": "appimage",
-      "summary": "Self-hosted Slack alternative",
-      "homepage": "https://rocket.chat",
-      "github": "RocketChat/Rocket.Chat.Electron",
-      "asset": "rocketchat-*.{arch}.AppImage",
-      "license": "MIT",
-      "publisher": "RocketChat",
-      "snap": "rocketchat-desktop",
-      "flatpak": "chat.rocket.RocketChat",
-      "description": "Rocket.Chat Desktop connects to your own Rocket.Chat server. Official .deb and AppImage builds are on GitHub releases.",
-      "icon": "https://rocket.chat/favicon.ico"
-    },
-    {
-      "name": "Wire",
-      "category": "Communication",
-      "kind": "repo",
-      "summary": "Secure messenger from Wire",
-      "homepage": "https://wire.com",
-      "repo": {
-        "key_url": "https://wire-app.wire.com/linux/releases.key",
-        "keyring": "/usr/share/keyrings/wire-desktop.gpg",
-        "deb_line": "deb [arch=amd64 signed-by=/usr/share/keyrings/wire-desktop.gpg] https://wire-app.wire.com/linux/debian stable main",
-        "list_file": "/etc/apt/sources.list.d/wire-desktop.list",
-        "dearmor": true
-      },
-      "package": "wire-desktop",
-      "description": "Wire is an audited, end-to-end encrypted messenger for teams and personal use. Installed from Wire's official apt repository.",
-      "icon": "https://wire.com/favicon.ico"
-    },
-    {
-      "name": "Jami",
-      "category": "Communication",
-      "kind": "repo",
-      "summary": "Distributed, account-free audio and video calls",
-      "homepage": "https://jami.net",
-      "repo": {
-        "key_url": "https://dl.jami.net/public-key.gpg",
-        "keyring": "/usr/share/keyrings/jami-archive-keyring.gpg",
-        "deb_line": "deb [signed-by=/usr/share/keyrings/jami-archive-keyring.gpg] https://dl.jami.net/stable/ubuntu_$(lsb_release -rs)/ jami main",
-        "list_file": "/etc/apt/sources.list.d/jami.list",
-        "dearmor": true
-      },
-      "package": "jami",
-      "description": "Jami is a GNU package for distributed audio, video, and chat with no central server. Installed from the official Jami apt repository.",
-      "icon": "https://jami.net/favicon.ico"
-    },
-    {
-      "name": "Session",
-      "category": "Communication",
-      "kind": "repo",
-      "summary": "Anonymous messenger with no phone number",
-      "homepage": "https://getsession.org",
-      "repo": {
-        "key_url": "https://deb.oxen.io/pub.gpg",
-        "keyring": "/usr/share/keyrings/oxen.gpg",
-        "deb_line": "deb [signed-by=/usr/share/keyrings/oxen.gpg] https://deb.oxen.io $(lsb_release -cs) main",
-        "list_file": "/etc/apt/sources.list.d/oxen.list",
-        "dearmor": true
-      },
-      "package": "session-desktop",
-      "description": "Session is a private messenger that does not require a phone number. Installed from the Oxen apt repository.",
-      "icon": "https://getsession.org/favicon.ico"
-    },
-    {
-      "name": "Mailspring",
-      "category": "Communication",
-      "kind": "appimage",
-      "summary": "Fast, modern email client",
-      "homepage": "https://getmailspring.com",
-      "github": "Foundry376/Mailspring",
-      "asset": "Mailspring-*.{arch}.AppImage",
-      "license": "GPL-3.0",
-      "publisher": "Foundry376",
-      "snap": "mailspring",
-      "description": "Mailspring is a beautiful, fast email client with unified inbox and local search. Official Linux builds are on GitHub releases.",
-      "icon": "https://getmailspring.com/favicon.ico"
-    },
-    {
-      "name": "Spotify",
-      "category": "Media & Entertainment",
-      "kind": "repo",
-      "summary": "Music and podcast streaming",
-      "homepage": "https://www.spotify.com",
-      "repo": {
-        "key_url": "https://download.spotify.com/debian/pubkey_5384CE82BA52C83A.asc",
-        "keyring": "/usr/share/keyrings/spotify-archive-keyring.gpg",
-        "deb_line": "deb [signed-by=/usr/share/keyrings/spotify-archive-keyring.gpg] https://repository.spotify.com stable non-free",
-        "list_file": "/etc/apt/sources.list.d/spotify.list",
-        "dearmor": true
-      },
-      "package": "spotify-client",
-      "snap": "spotify",
-      "flatpak": "com.spotify.Client",
-      "description": "Spotify for Linux from Spotify's own apt repository. Also available as an official snap.",
-      "icon": "https://www.spotify.com/favicon.ico"
-    },
-    {
-      "name": "Kodi",
-      "category": "Media & Entertainment",
-      "kind": "ppa",
-      "summary": "Open-source media center",
-      "homepage": "https://kodi.tv",
-      "ppa": "ppa:team-xbmc/ppa",
-      "package": "kodi",
-      "snap": "kodi",
-      "flatpak": "tv.kodi.Kodi",
-      "description": "Kodi plays movies, TV, music, and more from local and network sources. Installed from the official Team Kodi PPA.",
-      "icon": "https://kodi.tv/favicon.ico"
-    },
-    {
-      "name": "OBS Studio",
-      "category": "Media & Entertainment",
-      "kind": "ppa",
-      "summary": "Live streaming and recording",
-      "homepage": "https://obsproject.com",
-      "ppa": "ppa:obsproject/obs-studio",
-      "package": "obs-studio",
-      "snap": "obs-studio",
-      "flatpak": "com.obsproject.Studio",
-      "description": "OBS Studio is the standard tool for live streaming and screen recording. Installed from the official OBS Project PPA; Flathub is also official.",
-      "icon": "https://obsproject.com/favicon.ico"
-    },
-    {
-      "name": "Steam",
-      "category": "Gaming",
-      "kind": "deb",
-      "summary": "Valve's game store and library",
-      "homepage": "https://store.steampowered.com",
-      "deb_url": "https://repo.steampowered.com/steam/archive/precise/steam_latest.deb",
-      "deb_is_setup": true,
-      "package": "steam-launcher",
-      "snap": "steam",
-      "flatpak": "com.valvesoftware.Steam",
-      "description": "Steam is Valve's store, library, and overlay for PC games. The .deb registers repo.steampowered.com so Steam updates through apt.",
-      "icon": "https://store.steampowered.com/favicon.ico"
-    },
-    {
-      "name": "Heroic Games Launcher",
-      "category": "Gaming",
-      "kind": "appimage",
-      "summary": "Open-source Epic, GOG, and Amazon games launcher",
-      "homepage": "https://heroicgameslauncher.com",
-      "github": "Heroic-Games-Launcher/HeroicGamesLauncher",
-      "asset": "Heroic-*.{arch}.AppImage",
-      "deb_asset": "Heroic-*-linux-amd64.deb",
-      "source_page": "https://portable-linux-apps.github.io/app/heroic-games-launcher.html",
-      "license": "GPL-3.0",
-      "publisher": "Heroic-Games-Launcher",
-      "flatpak": "com.heroicgameslauncher.hgl",
-      "description": "Heroic is an open-source launcher for Epic Games, GOG, and Amazon Games. Official AppImage and .deb builds are on GitHub; Flathub is also official.",
-      "icon": "https://heroicgameslauncher.com/favicon.ico"
-    },
-    {
-      "name": "WineHQ",
-      "category": "Gaming",
-      "kind": "repo",
-      "summary": "Run Windows applications on Linux",
-      "homepage": "https://www.winehq.org",
-      "repo": {
-        "key_url": "https://dl.winehq.org/wine-builds/winehq.key",
-        "keyring": "/etc/apt/keyrings/winehq-archive.key",
-        "deb_line": "deb [signed-by=/etc/apt/keyrings/winehq-archive.key] https://dl.winehq.org/wine-builds/ubuntu $(lsb_release -cs) main",
-        "list_file": "/etc/apt/sources.list.d/winehq.list"
-      },
-      "package": "winehq-stable",
-      "description": "WineHQ's official packages, newer than the Ubuntu archive. i386 multiarch must be enabled on the machine before install. Installed from dl.winehq.org.",
-      "icon": "https://www.winehq.org/favicon.ico"
-    },
-    {
-      "name": "Lutris",
-      "category": "Gaming",
-      "kind": "ppa",
-      "summary": "Open gaming platform for Linux",
-      "homepage": "https://lutris.net",
-      "ppa": "ppa:lutris-team/lutris",
-      "package": "lutris",
-      "flatpak": "net.lutris.Lutris",
-      "description": "Lutris installs and runs games from GOG, Humble, Steam, and emulators through a single library. Installed from the official Lutris PPA.",
-      "icon": "https://lutris.net/favicon.ico"
-    },
-    {
-      "name": "RetroArch",
-      "category": "Gaming",
-      "kind": "ppa",
-      "summary": "Frontend for emulators, game engines, and media players",
-      "homepage": "https://www.retroarch.com",
-      "ppa": "ppa:libretro/stable",
-      "package": "retroarch",
-      "snap": "retroarch",
-      "flatpak": "org.libretro.RetroArch",
-      "description": "RetroArch is the reference Libretro frontend. Installed from the official Libretro PPA.",
-      "icon": "https://www.retroarch.com/favicon.ico"
-    },
-    {
-      "name": "OpenRGB",
-      "category": "Gaming",
-      "kind": "appimage",
-      "summary": "Open-source RGB lighting control",
-      "homepage": "https://openrgb.org",
-      "github": "CalcProgrammer1/OpenRGB",
-      "license": "GPL-2.0",
-      "publisher": "CalcProgrammer1",
-      "description": "OpenRGB controls RGB lighting across many motherboard and peripheral brands without vendor software. Linux builds are on GitHub releases.",
-      "icon": "https://openrgb.org/favicon.ico"
-    },
-    {
-      "name": "ONLYOFFICE Desktop Editors",
-      "category": "Productivity & Office",
-      "kind": "deb",
-      "summary": "Office suite compatible with Microsoft Office formats",
-      "homepage": "https://www.onlyoffice.com",
-      "deb_url": "https://download.onlyoffice.com/install/desktop/editors/linux/onlyoffice-desktopeditors_amd64.deb",
-      "package": "onlyoffice-desktopeditors",
-      "snap": "onlyoffice-desktopeditors",
-      "flatpak": "org.onlyoffice.desktopeditors",
-      "description": "ONLYOFFICE Desktop Editors opens and edits DOCX, XLSX, and PPTX locally. Installs the official .deb; snap and Flathub channels are also official.",
-      "icon": "https://www.onlyoffice.com/favicon.ico"
-    },
-    {
-      "name": "Obsidian",
-      "category": "Productivity & Office",
-      "kind": "appimage",
-      "summary": "Local-first markdown knowledge base",
-      "homepage": "https://obsidian.md",
-      "github": "obsidianmd/obsidian-releases",
-      "asset": "Obsidian-*.AppImage",
-      "apparmor": true,
-      "publisher": "obsidianmd",
-      "flatpak": "md.obsidian.Obsidian",
-      "description": "Obsidian is a local-first markdown editor with backlinks and a plugin ecosystem. Official AppImage and .deb builds are on GitHub releases.",
-      "icon": "https://obsidian.md/favicon.ico"
-    },
-    {
-      "name": "Zotero",
-      "category": "Productivity & Office",
-      "kind": "repo",
-      "summary": "Collect, organize, and cite research",
-      "homepage": "https://www.zotero.org",
-      "repo": {
-        "key_url": "https://raw.githubusercontent.com/retorquere/zotero-deb/master/zotero.gpg",
-        "keyring": "/usr/share/keyrings/zotero.gpg",
-        "deb_line": "deb [signed-by=/usr/share/keyrings/zotero.gpg by-hash=force] https://zotero.retorque.re/file/apt-package-archive ./",
-        "list_file": "/etc/apt/sources.list.d/zotero.list"
-      },
-      "package": "zotero",
-      "flatpak": "org.zotero.Zotero",
-      "description": "Zotero is a free reference manager. The community zotero-deb apt repository packages upstream Zotero for Debian and Ubuntu.",
-      "icon": "https://www.zotero.org/favicon.ico",
-      "unofficial": true
-    },
-    {
-      "name": "Simplenote",
-      "category": "Productivity & Office",
-      "kind": "appimage",
-      "summary": "Simple synced notes from Automattic",
-      "homepage": "https://simplenote.com",
-      "github": "Automattic/simplenote-electron",
-      "asset": "Simplenote-linux-*.{arch}.AppImage",
-      "deb_asset": "Simplenote-linux-*-amd64.deb",
-      "source_page": "https://portable-linux-apps.github.io/app/simplenote-electron.html",
-      "license": "GPL-2.0",
-      "publisher": "Automattic",
-      "snap": "simplenote",
-      "description": "Simplenote is a fast, synced note app from Automattic. Official Linux builds are on GitHub releases.",
-      "icon": "https://simplenote.com/favicon.ico"
-    },
-    {
-      "name": "Standard Notes",
-      "category": "Productivity & Office",
-      "kind": "appimage",
-      "summary": "Encrypted notes with a longevity focus",
-      "homepage": "https://standardnotes.com",
-      "github": "standardnotes/app",
-      "asset": "standard-notes-*.{arch}.AppImage",
-      "license": "AGPL-3.0",
-      "publisher": "standardnotes",
-      "description": "Standard Notes is an encrypted notes app designed for decades of use. Official Linux builds are on GitHub releases.",
-      "icon": "https://standardnotes.com/favicon.ico"
-    },
-    {
-      "name": "Super Productivity",
-      "category": "Productivity & Office",
-      "kind": "appimage",
-      "summary": "Advanced todo list and time tracker",
-      "homepage": "https://super-productivity.com",
-      "github": "johannesjo/super-productivity",
-      "asset": "superProductivity-*.{arch}.AppImage",
-      "license": "MIT",
-      "publisher": "super-productivity",
-      "snap": "superproductivity",
-      "description": "Super Productivity is a personal task manager with time tracking and Jira/GitHub integration. Official Linux builds are on GitHub releases.",
-      "icon": "https://super-productivity.com/favicon.ico"
-    },
-    {
-      "name": "Dropbox",
-      "category": "Cloud Storage & Sync",
-      "kind": "deb",
-      "summary": "Official Dropbox desktop sync client",
-      "homepage": "https://www.dropbox.com",
-      "deb_url": "https://linux.dropbox.com/packages/ubuntu/dropbox_2025.05.20_amd64.deb",
-      "package": "dropbox",
-      "description": "Dropbox's official Linux client. Flathub is community-maintained; this listing uses the vendor .deb.",
-      "icon": "https://www.dropbox.com/static/images/favicon.ico"
-    },
-    {
-      "name": "MEGAsync",
-      "category": "Cloud Storage & Sync",
-      "kind": "repo",
-      "summary": "MEGA cloud storage desktop client",
-      "homepage": "https://mega.io/desktop",
-      "repo": {
-        "key_url": "https://mega.nz/linux/repo/xUbuntu_$(lsb_release -rs)/Release.key",
-        "keyring": "/usr/share/keyrings/megasync.gpg",
-        "deb_line": "deb [signed-by=/usr/share/keyrings/megasync.gpg] https://mega.nz/linux/repo/xUbuntu_$(lsb_release -rs)/ ./",
-        "list_file": "/etc/apt/sources.list.d/megasync.list",
-        "dearmor": true
-      },
-      "package": "megasync",
-      "description": "MEGAsync syncs your MEGA cloud with a local folder and includes end-to-end encryption. Installed from MEGA's per-Ubuntu-release apt repository.",
-      "icon": "https://mega.io/favicon.ico"
-    },
-    {
-      "name": "Nextcloud Desktop",
-      "category": "Cloud Storage & Sync",
-      "kind": "ppa",
-      "summary": "Sync client for Nextcloud servers",
-      "homepage": "https://nextcloud.com",
-      "ppa": "ppa:nextcloud-devs/client",
-      "package": "nextcloud-desktop",
-      "snap": "nextcloud",
-      "flatpak": "com.nextcloud.desktopclient.nextcloud",
-      "description": "The official Nextcloud desktop client. Installed from the Nextcloud developers PPA for a newer build than the Ubuntu archive.",
-      "icon": "https://nextcloud.com/favicon.ico"
-    },
-    {
-      "name": "Syncthing",
-      "category": "Cloud Storage & Sync",
-      "kind": "repo",
-      "summary": "Continuous peer-to-peer file sync",
-      "homepage": "https://syncthing.net",
-      "repo": {
-        "key_url": "https://syncthing.net/release-key.gpg",
-        "keyring": "/usr/share/keyrings/syncthing-archive-keyring.gpg",
-        "deb_line": "deb [signed-by=/usr/share/keyrings/syncthing-archive-keyring.gpg] https://apt.syncthing.net/ syncthing stable",
-        "list_file": "/etc/apt/sources.list.d/syncthing.list"
-      },
-      "package": "syncthing",
-      "description": "Syncthing syncs folders between your devices with no central server. Installed from Syncthing's official apt repository.",
-      "icon": "https://syncthing.net/favicon.ico"
-    },
-    {
-      "name": "rclone",
-      "category": "Cloud Storage & Sync",
-      "kind": "deb",
-      "summary": "Rsync for cloud storage",
-      "homepage": "https://rclone.org",
-      "deb_url": "https://downloads.rclone.org/rclone-current-linux-amd64.deb",
-      "package": "rclone",
-      "description": "rclone syncs files to and from dozens of cloud providers. The official .deb is newer than the Ubuntu archive package.",
-      "icon": "https://rclone.org/img/favicon.ico"
-    },
-    {
-      "name": "Pinta",
-      "category": "Creative & Design",
-      "kind": "ppa",
-      "summary": "Simple drawing and image editing",
-      "homepage": "https://www.pinta-project.com",
-      "ppa": "ppa:pinta-maintainers/pinta-stable",
-      "package": "pinta",
-      "flatpak": "com.github.PintaProject.Pinta",
-      "description": "Pinta is a GTK paint program inspired by Paint.NET. Installed from the official Pinta PPA.",
-      "icon": "https://www.pinta-project.com/favicon.ico"
-    },
-    {
-      "name": "Inkscape",
-      "category": "Creative & Design",
-      "kind": "ppa",
-      "summary": "Professional vector graphics editor",
-      "homepage": "https://inkscape.org",
-      "ppa": "ppa:inkscape.dev/stable",
-      "package": "inkscape",
-      "snap": "inkscape",
-      "flatpak": "org.inkscape.Inkscape",
-      "description": "Inkscape is a free SVG editor. Installed from the official Inkscape PPA for a newer release than the Ubuntu archive.",
-      "icon": "https://inkscape.org/favicon.ico"
-    },
-    {
-      "name": "OpenShot",
-      "category": "Creative & Design",
-      "kind": "ppa",
-      "summary": "Easy, free video editor",
-      "homepage": "https://www.openshot.org",
-      "ppa": "ppa:openshot.developers/ppa",
-      "package": "openshot-qt",
-      "snap": "openshot-qt",
-      "flatpak": "org.openshot.OpenShot",
-      "description": "OpenShot is an approachable video editor for Linux. Installed from the official OpenShot PPA.",
-      "icon": "https://www.openshot.org/favicon.ico"
-    },
-    {
-      "name": "Darktable",
-      "category": "Creative & Design",
-      "kind": "repo",
-      "summary": "Photography workflow and RAW developer",
-      "homepage": "https://www.darktable.org",
-      "repo": {
-        "key_url": "https://download.opensuse.org/repositories/graphics:darktable/xUbuntu_$(lsb_release -rs)/Release.key",
-        "keyring": "/usr/share/keyrings/darktable.gpg",
-        "deb_line": "deb [signed-by=/usr/share/keyrings/darktable.gpg] https://download.opensuse.org/repositories/graphics:/darktable/xUbuntu_$(lsb_release -rs)/ /",
-        "list_file": "/etc/apt/sources.list.d/darktable.list",
-        "dearmor": true
-      },
-      "package": "darktable",
-      "snap": "darktable",
-      "flatpak": "org.darktable.Darktable",
-      "description": "darktable is a virtual lighttable and darkroom for photographers. The OBS repository carries newer releases than the Ubuntu archive.",
-      "icon": "https://www.darktable.org/favicon.ico"
-    },
-    {
-      "name": "VirtualBox",
-      "category": "Utilities & Tools",
-      "kind": "repo",
-      "summary": "Type-2 hypervisor for desktop virtual machines",
-      "homepage": "https://www.virtualbox.org",
-      "repo": {
-        "key_url": "https://www.virtualbox.org/download/oracle_vbox_2016.asc",
-        "keyring": "/usr/share/keyrings/oracle-virtualbox-2016.gpg",
-        "deb_line": "deb [arch=amd64 signed-by=/usr/share/keyrings/oracle-virtualbox-2016.gpg] https://download.virtualbox.org/virtualbox/debian $(lsb_release -cs) contrib",
-        "list_file": "/etc/apt/sources.list.d/virtualbox.list",
-        "dearmor": true
-      },
-      "package": "virtualbox-7.2",
-      "description": "Oracle VirtualBox runs virtual machines with optional kernel modules. Installed from Oracle's official apt repository — the only supported Linux channel for the closed-source extension pack workflow.",
-      "icon": "https://www.virtualbox.org/favicon.ico"
-    },
-    {
-      "name": "AnyDesk",
-      "category": "Utilities & Tools",
-      "kind": "repo",
-      "summary": "Remote desktop for support and access",
-      "homepage": "https://anydesk.com",
-      "repo": {
-        "key_url": "https://keys.anydesk.com/repos/DEB-GPG-KEY",
-        "keyring": "/usr/share/keyrings/anydesk.gpg",
-        "deb_line": "deb [signed-by=/usr/share/keyrings/anydesk.gpg] http://deb.anydesk.com/ all main",
-        "list_file": "/etc/apt/sources.list.d/anydesk.list",
-        "dearmor": true
-      },
-      "package": "anydesk",
-      "description": "AnyDesk is a fast remote-desktop client. Installed from AnyDesk's official apt repository.",
-      "icon": "https://anydesk.com/favicon.ico"
-    },
-    {
-      "name": "RustDesk",
-      "category": "Cloud Storage & Sync",
-      "kind": "appimage",
-      "summary": "Open-source remote desktop",
-      "homepage": "https://rustdesk.com",
-      "github": "rustdesk/rustdesk",
-      "asset": "rustdesk-*.{arch}.AppImage",
-      "deb_asset": "rustdesk-*-sciter.deb",
-      "source_page": "https://portable-linux-apps.github.io/app/rustdesk.html",
-      "license": "AGPL-3.0",
-      "publisher": "rustdesk",
-      "flatpak": "com.rustdesk.RustDesk",
-      "description": "RustDesk is a remote desktop alternative to TeamViewer that you can self-host. Official AppImage and .deb builds are on GitHub releases.",
-      "icon": "https://rustdesk.com/favicon.ico"
-    },
-    {
-      "name": "Stacer",
-      "category": "Utilities & Tools",
-      "kind": "appimage",
-      "summary": "Linux system optimizer and monitor",
-      "homepage": "https://github.com/oguzhaninan/Stacer",
-      "github": "oguzhaninan/Stacer",
-      "license": "GPL-3.0",
-      "publisher": "oguzhaninan",
-      "description": "Stacer is a community system cleaner and monitor. The project is dormant; Linux .deb builds remain on GitHub releases.",
-      "icon": "https://github.com/oguzhaninan.png?size=256",
-      "unofficial": true
-    },
-    {
-      "name": "CopyQ",
-      "category": "Utilities & Tools",
-      "kind": "ppa",
-      "summary": "Advanced clipboard manager",
-      "homepage": "https://hluk.github.io/CopyQ/",
-      "ppa": "ppa:hluk/copyq",
-      "package": "copyq",
-      "flatpak": "com.github.hluk.copyq",
-      "description": "CopyQ is a clipboard manager with editing, scripting, and tabbed history. Installed from the official CopyQ PPA.",
-      "icon": "https://hluk.github.io/CopyQ/favicon.ico"
-    },
-    {
-      "name": "TLP",
-      "category": "Utilities & Tools",
-      "kind": "ppa",
-      "summary": "Laptop battery optimization",
-      "homepage": "https://linrunner.de/tlp/",
-      "ppa": "ppa:linrunner/tlp",
-      "package": "tlp",
-      "description": "TLP applies power-saving settings automatically on laptops. The official PPA is newer than the Ubuntu archive.",
-      "icon": "https://linrunner.de/favicon.ico"
-    },
-    {
-      "name": "LocalSend",
-      "category": "Cloud Storage & Sync",
-      "kind": "appimage",
-      "summary": "Share files to nearby devices",
-      "homepage": "https://localsend.org",
-      "github": "localsend/localsend",
-      "asset": "LocalSend-*.{arch}.AppImage",
-      "deb_asset": "LocalSend-*-linux-arm-64.deb",
-      "source_page": "https://portable-linux-apps.github.io/app/localsend.html",
-      "license": "Apache-2.0",
-      "publisher": "localsend",
-      "flatpak": "org.localsend.localsend_app",
-      "description": "LocalSend shares files across devices on the local network with no account. Official Linux builds are on GitHub releases.",
-      "icon": "https://localsend.org/favicon.ico"
-    },
-    {
-      "name": "Visual Studio Code",
-      "category": "Development",
-      "kind": "repo",
-      "summary": "Code editor from Microsoft",
-      "homepage": "https://code.visualstudio.com",
-      "repo": {
-        "key_url": "https://packages.microsoft.com/keys/microsoft.asc",
-        "keyring": "/usr/share/keyrings/microsoft.gpg",
-        "deb_line": "deb [arch=amd64,arm64,armhf signed-by=/usr/share/keyrings/microsoft.gpg] https://packages.microsoft.com/repos/code stable main",
-        "list_file": "/etc/apt/sources.list.d/vscode.list",
-        "dearmor": true
-      },
-      "package": "code",
-      "snap": "code",
-      "flatpak": "com.visualstudio.code",
-      "description": "Visual Studio Code with IntelliSense, debugging, and a huge extension marketplace. Installed from Microsoft's official apt repository so it updates through apt.",
-      "icon": "https://code.visualstudio.com/favicon.ico"
-    },
-    {
-      "name": "Sublime Text",
-      "category": "Development",
-      "kind": "repo",
-      "summary": "Sophisticated text editor for code, markup, and prose",
-      "homepage": "https://www.sublimetext.com",
-      "repo": {
-        "key_url": "https://download.sublimetext.com/sublimehq-pub.gpg",
-        "keyring": "/etc/apt/keyrings/sublimehq-archive.gpg",
-        "deb_line": "deb [signed-by=/etc/apt/keyrings/sublimehq-archive.gpg] https://download.sublimetext.com/ apt/stable/",
-        "list_file": "/etc/apt/sources.list.d/sublime-text.list",
-        "dearmor": true
-      },
-      "package": "sublime-text",
-      "description": "Sublime Text is a fast, proprietary editor with a powerful goto-anything palette. Installed from Sublime HQ's official apt repository.",
-      "icon": "https://www.sublimetext.com/favicon.ico"
-    },
-    {
-      "name": "DBeaver Community",
-      "category": "Development",
-      "kind": "deb",
-      "summary": "Universal database tool",
-      "homepage": "https://dbeaver.io",
-      "deb_url": "https://dbeaver.io/files/dbeaver-ce_latest_amd64.deb",
-      "package": "dbeaver-ce",
-      "snap": "dbeaver-ce",
-      "flatpak": "io.dbeaver.DBeaverCommunity",
-      "description": "DBeaver Community is a free multi-database GUI. Installs the official latest .deb from dbeaver.io.",
-      "icon": "https://dbeaver.io/favicon.ico"
-    },
-    {
-      "name": "Docker Engine",
-      "category": "Development",
-      "kind": "repo",
-      "summary": "Container runtime and CLI from Docker",
-      "homepage": "https://docs.docker.com/engine/",
-      "repo": {
-        "key_url": "https://download.docker.com/linux/ubuntu/gpg",
-        "keyring": "/etc/apt/keyrings/docker.asc",
-        "deb_line": "deb [arch=$(dpkg --print-architecture) signed-by=/etc/apt/keyrings/docker.asc] https://download.docker.com/linux/ubuntu $(lsb_release -cs) stable",
-        "list_file": "/etc/apt/sources.list.d/docker.list"
-      },
-      "package": "docker-ce",
-      "description": "Docker Engine, CLI, containerd, and Compose plugin from Docker's official apt repository. This is the supported Ubuntu channel, not the archive docker.io package.",
-      "icon": "https://www.docker.com/favicon.ico"
-    },
-    {
-      "name": "PostgreSQL",
-      "category": "Development",
-      "kind": "repo",
-      "summary": "PostgreSQL from the PGDG apt repository",
-      "homepage": "https://www.postgresql.org",
-      "repo": {
-        "key_url": "https://www.postgresql.org/media/keys/ACCC4CF8.asc",
-        "keyring": "/usr/share/keyrings/postgresql.gpg",
-        "deb_line": "deb [signed-by=/usr/share/keyrings/postgresql.gpg] https://apt.postgresql.org/pub/repos/apt $(lsb_release -cs)-pgdg main",
-        "list_file": "/etc/apt/sources.list.d/pgdg.list",
-        "dearmor": true
-      },
-      "package": "postgresql",
-      "description": "The PostgreSQL Global Development Group apt repository carries current PostgreSQL major versions for Ubuntu, newer than the archive.",
-      "icon": "https://www.postgresql.org/favicon.ico"
-    },
-    {
-      "name": "Redis",
-      "category": "Development",
-      "kind": "repo",
-      "summary": "In-memory data store from Redis Ltd.",
-      "homepage": "https://redis.io",
-      "repo": {
-        "key_url": "https://packages.redis.io/gpg",
-        "keyring": "/usr/share/keyrings/redis-archive-keyring.gpg",
-        "deb_line": "deb [signed-by=/usr/share/keyrings/redis-archive-keyring.gpg] https://packages.redis.io/deb $(lsb_release -cs) main",
-        "list_file": "/etc/apt/sources.list.d/redis.list",
-        "dearmor": true
-      },
-      "package": "redis",
-      "description": "Redis from the official packages.redis.io apt repository, newer than the Ubuntu archive.",
-      "icon": "https://redis.io/favicon.ico"
-    },
-    {
-      "name": "Nginx",
-      "category": "Development",
-      "kind": "repo",
-      "summary": "HTTP server from nginx.org",
-      "homepage": "https://nginx.org",
-      "repo": {
-        "key_url": "https://nginx.org/keys/nginx_signing.key",
-        "keyring": "/usr/share/keyrings/nginx-archive-keyring.gpg",
-        "deb_line": "deb [signed-by=/usr/share/keyrings/nginx-archive-keyring.gpg] https://nginx.org/packages/ubuntu $(lsb_release -cs) nginx",
-        "list_file": "/etc/apt/sources.list.d/nginx.list",
-        "dearmor": true
-      },
-      "package": "nginx",
-      "description": "Mainline/stable nginx packages from nginx.org, newer than the Ubuntu archive.",
-      "icon": "https://nginx.org/favicon.ico"
-    },
-    {
-      "name": "Node.js",
-      "category": "Development",
-      "kind": "repo",
-      "summary": "Node.js 22.x from NodeSource",
-      "homepage": "https://nodejs.org",
-      "repo": {
-        "key_url": "https://deb.nodesource.com/gpgkey/nodesource-repo.gpg.key",
-        "keyring": "/etc/apt/keyrings/nodesource.gpg",
-        "deb_line": "deb [signed-by=/etc/apt/keyrings/nodesource.gpg] https://deb.nodesource.com/node_22.x nodistro main",
-        "list_file": "/etc/apt/sources.list.d/nodesource.list",
-        "dearmor": true
-      },
-      "package": "nodejs",
-      "description": "Current Node.js LTS from NodeSource's nodistro apt repository, the vendor channel for Debian and Ubuntu.",
-      "icon": "https://nodejs.org/favicon.ico"
-    },
-    {
-      "name": "Windsurf",
-      "category": "AI",
-      "kind": "repo",
-      "summary": "AI-powered code editor from Exafunction",
-      "homepage": "https://windsurf.com",
-      "repo": {
-        "key_url": "https://windsurf-stable.codeiumdata.com/wVxQEIWkwPUEAGf3/windsurf.gpg",
-        "keyring": "/etc/apt/keyrings/windsurf-stable.gpg",
-        "deb_line": "deb [arch=amd64 signed-by=/etc/apt/keyrings/windsurf-stable.gpg] https://windsurf-stable.codeiumdata.com/wVxQEIWkwPUEAGf3/apt stable main",
-        "list_file": "/etc/apt/sources.list.d/windsurf.list",
-        "dearmor": true
-      },
-      "also_categories": [
-        "Development"
-      ],
-      "package": "windsurf",
-      "description": "Windsurf (formerly Codeium) is an AI code editor. Installed from Windsurf's official apt repository.",
-      "icon": "https://windsurf.com/favicon.ico"
-    },
-    {
-      "name": "Claude Desktop",
-      "category": "AI",
-      "kind": "repo",
-      "summary": "Anthropic's official Claude desktop app for Linux",
-      "homepage": "https://claude.ai/download",
-      "repo": {
-        "key_url": "https://downloads.claude.ai/claude-desktop/key.asc",
-        "keyring": "/usr/share/keyrings/claude-desktop-archive-keyring.asc",
-        "deb_line": "deb [arch=amd64,arm64 signed-by=/usr/share/keyrings/claude-desktop-archive-keyring.asc] https://downloads.claude.ai/claude-desktop/apt/stable stable main",
-        "list_file": "/etc/apt/sources.list.d/claude-desktop.list"
-      },
-      "package": "claude-desktop",
-      "description": "Claude Desktop is Anthropic's official Linux beta client. Installed from Anthropic's apt repository.",
-      "icon": "https://www.anthropic.com/favicon.ico"
-    },
-    {
-      "name": "Msty",
-      "category": "AI",
-      "kind": "appimage",
-      "summary": "Local and cloud LLM chat client",
-      "homepage": "https://msty.app",
-      "github": "mstyapp/msty",
-      "description": "Msty is a desktop client for local and cloud language models. Linux builds are published by the vendor; treat availability as best-effort.",
-      "icon": "https://msty.app/favicon.ico",
-      "unofficial": true
-    },
-    {
-      "name": "Vault",
-      "category": "Development",
-      "kind": "repo",
-      "summary": "Secrets and encryption from HashiCorp",
-      "homepage": "https://www.vaultproject.io",
-      "repo": {
-        "key_url": "https://apt.releases.hashicorp.com/gpg",
-        "keyring": "/usr/share/keyrings/hashicorp-archive-keyring.gpg",
-        "deb_line": "deb [signed-by=/usr/share/keyrings/hashicorp-archive-keyring.gpg] https://apt.releases.hashicorp.com $(lsb_release -cs) main",
-        "list_file": "/etc/apt/sources.list.d/hashicorp.list",
-        "dearmor": true
-      },
-      "package": "vault",
-      "description": "HashiCorp Vault from the same official apt repository that already ships Terraform. One repo, additional package.",
-      "icon": "https://www.hashicorp.com/favicon.ico"
     },
     {
       "name": "12To11",
@@ -4326,6 +3377,23 @@
       "publisher": "anyme123",
       "description": "Any Code is a professional desktop application tailored for AI-driven code development workflows, supporting three major AI engines: Claude Code CLI, OpenAI Codex, and Google Gemini CLI.",
       "icon": "https://portable-linux-apps.github.io/icons/any-code.webp"
+    },
+    {
+      "name": "AnyDesk",
+      "category": "Utilities & Tools",
+      "kind": "repo",
+      "summary": "Remote desktop for support and access",
+      "homepage": "https://anydesk.com",
+      "repo": {
+        "key_url": "https://keys.anydesk.com/repos/DEB-GPG-KEY",
+        "keyring": "/usr/share/keyrings/anydesk.gpg",
+        "deb_line": "deb [signed-by=/usr/share/keyrings/anydesk.gpg] http://deb.anydesk.com/ all main",
+        "list_file": "/etc/apt/sources.list.d/anydesk.list",
+        "dearmor": true
+      },
+      "package": "anydesk",
+      "description": "AnyDesk is a fast remote-desktop client. Installed from AnyDesk's official apt repository.",
+      "icon": "https://anydesk.com/favicon.ico"
     },
     {
       "name": "Apiflow",
@@ -5484,6 +4552,24 @@
       "unofficial": true
     },
     {
+      "name": "Brave",
+      "category": "Browsers",
+      "kind": "repo",
+      "summary": "Privacy-focused Chromium browser from Brave Software",
+      "homepage": "https://brave.com",
+      "repo": {
+        "key_url": "https://brave-browser-apt-release.s3.brave.com/brave-browser-archive-keyring.gpg",
+        "keyring": "/usr/share/keyrings/brave-browser-archive-keyring.gpg",
+        "deb_line": "deb [signed-by=/usr/share/keyrings/brave-browser-archive-keyring.gpg] https://brave-browser-apt-release.s3.brave.com/ stable main",
+        "list_file": "/etc/apt/sources.list.d/brave-browser-release.list"
+      },
+      "package": "brave-browser",
+      "snap": "brave",
+      "flatpak": "com.brave.Browser",
+      "description": "Brave blocks ads and trackers by default and includes an optional private browsing mode with Tor. Installed from Brave's official apt repository.",
+      "icon": "https://brave.com/static-assets/images/brave-favicon.png"
+    },
+    {
       "name": "Brave Origin",
       "category": "Browsers",
       "kind": "appimage",
@@ -6327,6 +5413,18 @@
       "icon": "https://portable-linux-apps.github.io/icons/converternow.webp"
     },
     {
+      "name": "CopyQ",
+      "category": "Utilities & Tools",
+      "kind": "ppa",
+      "summary": "Advanced clipboard manager",
+      "homepage": "https://hluk.github.io/CopyQ/",
+      "ppa": "ppa:hluk/copyq",
+      "package": "copyq",
+      "flatpak": "com.github.hluk.copyq",
+      "description": "CopyQ is a clipboard manager with editing, scripting, and tabbed history. Installed from the official CopyQ PPA.",
+      "icon": "https://hluk.github.io/CopyQ/favicon.ico"
+    },
+    {
       "name": "Copyq Enhanced",
       "category": "Utilities & Tools",
       "kind": "appimage",
@@ -6704,6 +5802,25 @@
       "description": "Unofficial, the DarkPlaces Quake engine, created by LadyHavoc.",
       "icon": "https://portable-linux-apps.github.io/icons/darkplaces.webp",
       "unofficial": true
+    },
+    {
+      "name": "Darktable",
+      "category": "Creative & Design",
+      "kind": "repo",
+      "summary": "Photography workflow and RAW developer",
+      "homepage": "https://www.darktable.org",
+      "repo": {
+        "key_url": "https://download.opensuse.org/repositories/graphics:darktable/xUbuntu_$(lsb_release -rs)/Release.key",
+        "keyring": "/usr/share/keyrings/darktable.gpg",
+        "deb_line": "deb [signed-by=/usr/share/keyrings/darktable.gpg] https://download.opensuse.org/repositories/graphics:/darktable/xUbuntu_$(lsb_release -rs)/ /",
+        "list_file": "/etc/apt/sources.list.d/darktable.list",
+        "dearmor": true
+      },
+      "package": "darktable",
+      "snap": "darktable",
+      "flatpak": "org.darktable.Darktable",
+      "description": "darktable is a virtual lighttable and darkroom for photographers. The OBS repository carries newer releases than the Ubuntu archive.",
+      "icon": "https://www.darktable.org/favicon.ico"
     },
     {
       "name": "Dashbeam",
@@ -7101,6 +6218,19 @@
       "icon": "https://portable-linux-apps.github.io/icons/dione.webp"
     },
     {
+      "name": "Discord",
+      "category": "Communication",
+      "kind": "deb",
+      "summary": "Voice, video, and text chat for communities",
+      "homepage": "https://discord.com",
+      "deb_url": "https://discord.com/api/download?platform=linux&format=deb",
+      "package": "discord",
+      "snap": "discord",
+      "flatpak": "com.discordapp.Discord",
+      "description": "Discord's official Linux desktop client. Installs the latest .deb from Discord; the app nags when a newer version is available.",
+      "icon": "https://discord.com/assets/favicon.ico"
+    },
+    {
       "name": "Discord Bot Client",
       "category": "Communication",
       "kind": "appimage",
@@ -7374,6 +6504,17 @@
       "publisher": "CutWire-Studios",
       "description": "A free, open-source, beginner-friendly desktop video editor built with Qt 6 and FFmpeg.",
       "icon": "https://portable-linux-apps.github.io/icons/drift.webp"
+    },
+    {
+      "name": "Dropbox",
+      "category": "Cloud Storage & Sync",
+      "kind": "deb",
+      "summary": "Official Dropbox desktop sync client",
+      "homepage": "https://www.dropbox.com",
+      "deb_url": "https://linux.dropbox.com/packages/ubuntu/dropbox_2025.05.20_amd64.deb",
+      "package": "dropbox",
+      "description": "Dropbox's official Linux client. Flathub is community-maintained; this listing uses the vendor .deb.",
+      "icon": "https://www.dropbox.com/static/images/favicon.ico"
     },
     {
       "name": "Drovp",
@@ -7892,6 +7033,20 @@
       "publisher": "espanso",
       "description": "Cross-platform Text Expander written in Rust.",
       "icon": "https://portable-linux-apps.github.io/icons/espanso.webp"
+    },
+    {
+      "name": "Etcher",
+      "category": "Utilities & Tools",
+      "kind": "appimage",
+      "summary": "Flash OS images to SD cards and USB drives, Balena Etcher.",
+      "homepage": "https://github.com/balena-io/etcher",
+      "github": "balena-io/etcher",
+      "deb_asset": "balena-etcher_*_amd64.deb",
+      "source_page": "https://portable-linux-apps.github.io/app/etcher.html",
+      "license": "Apache-2.0",
+      "publisher": "balena-io",
+      "description": "Flash OS images to SD cards and USB drives, Balena Etcher.",
+      "icon": "https://portable-linux-apps.github.io/icons/etcher.webp"
     },
     {
       "name": "Etlegacy",
@@ -9707,6 +8862,22 @@
       "icon": "https://portable-linux-apps.github.io/icons/helix.webp"
     },
     {
+      "name": "Heroic Games Launcher",
+      "category": "Gaming",
+      "kind": "appimage",
+      "summary": "Open-source Epic, GOG, and Amazon games launcher",
+      "homepage": "https://heroicgameslauncher.com",
+      "github": "Heroic-Games-Launcher/HeroicGamesLauncher",
+      "asset": "Heroic-*.{arch}.AppImage",
+      "deb_asset": "Heroic-*-linux-amd64.deb",
+      "source_page": "https://portable-linux-apps.github.io/app/heroic-games-launcher.html",
+      "license": "GPL-3.0",
+      "publisher": "Heroic-Games-Launcher",
+      "flatpak": "com.heroicgameslauncher.hgl",
+      "description": "Heroic is an open-source launcher for Epic Games, GOG, and Amazon Games. Official AppImage and .deb builds are on GitHub; Flathub is also official.",
+      "icon": "https://heroicgameslauncher.com/favicon.ico"
+    },
+    {
       "name": "Heynote",
       "category": "Development",
       "kind": "appimage",
@@ -10037,6 +9208,19 @@
       "unofficial": true
     },
     {
+      "name": "Inkscape",
+      "category": "Creative & Design",
+      "kind": "ppa",
+      "summary": "Professional vector graphics editor",
+      "homepage": "https://inkscape.org",
+      "ppa": "ppa:inkscape.dev/stable",
+      "package": "inkscape",
+      "snap": "inkscape",
+      "flatpak": "org.inkscape.Inkscape",
+      "description": "Inkscape is a free SVG editor. Installed from the official Inkscape PPA for a newer release than the Ubuntu archive.",
+      "icon": "https://inkscape.org/favicon.ico"
+    },
+    {
       "name": "Innerbreeze",
       "category": "Utilities & Tools",
       "kind": "appimage",
@@ -10079,6 +9263,21 @@
       "publisher": "Kong",
       "description": "API client for GraphQL, REST, WebSockets and gRPC.",
       "icon": "https://portable-linux-apps.github.io/icons/insomnia.webp"
+    },
+    {
+      "name": "Internxt Drive",
+      "category": "Utilities & Tools",
+      "kind": "appimage",
+      "summary": "Electron React Boilerplate uses Electron and React.",
+      "homepage": "https://github.com/internxt/drive-desktop-linux",
+      "github": "internxt/drive-desktop-linux",
+      "asset": "Internxt-*.AppImage",
+      "deb_asset": "internxt_*_amd64.deb",
+      "source_page": "https://portable-linux-apps.github.io/app/internxt-drive.html",
+      "license": "AGPL-3.0",
+      "publisher": "internxt",
+      "description": "Electron React Boilerplate uses Electron and React.",
+      "icon": "https://portable-linux-apps.github.io/icons/internxt-drive.webp"
     },
     {
       "name": "Interstellar",
@@ -11147,6 +10346,22 @@
       "publisher": "lobehub",
       "description": "LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers, Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click FREE deployment of your private AI Agent application.",
       "icon": "https://portable-linux-apps.github.io/icons/lobe-chat.webp"
+    },
+    {
+      "name": "LocalSend",
+      "category": "Cloud Storage & Sync",
+      "kind": "appimage",
+      "summary": "Share files to nearby devices",
+      "homepage": "https://localsend.org",
+      "github": "localsend/localsend",
+      "asset": "LocalSend-*.{arch}.AppImage",
+      "deb_asset": "LocalSend-*-linux-arm-64.deb",
+      "source_page": "https://portable-linux-apps.github.io/app/localsend.html",
+      "license": "Apache-2.0",
+      "publisher": "localsend",
+      "flatpak": "org.localsend.localsend_app",
+      "description": "LocalSend shares files across devices on the local network with no account. Official Linux builds are on GitHub releases.",
+      "icon": "https://localsend.org/favicon.ico"
     },
     {
       "name": "Lorien",
@@ -13074,6 +12289,19 @@
       "icon": "https://portable-linux-apps.github.io/icons/openscreen.webp"
     },
     {
+      "name": "OpenShot",
+      "category": "Creative & Design",
+      "kind": "ppa",
+      "summary": "Easy, free video editor",
+      "homepage": "https://www.openshot.org",
+      "ppa": "ppa:openshot.developers/ppa",
+      "package": "openshot-qt",
+      "snap": "openshot-qt",
+      "flatpak": "org.openshot.OpenShot",
+      "description": "OpenShot is an approachable video editor for Linux. Installed from the official OpenShot PPA.",
+      "icon": "https://www.openshot.org/favicon.ico"
+    },
+    {
       "name": "Openssh Gui",
       "category": "Utilities & Tools",
       "kind": "appimage",
@@ -13159,6 +12387,25 @@
       "description": "Unofficial, an open-source port of the DOS shoot-em-up Tyrian.",
       "icon": "https://portable-linux-apps.github.io/icons/opentyrian2000.webp",
       "unofficial": true
+    },
+    {
+      "name": "Opera",
+      "category": "Browsers",
+      "kind": "repo",
+      "summary": "Chromium-based browser with a built-in VPN and workspace",
+      "homepage": "https://www.opera.com",
+      "repo": {
+        "key_url": "https://deb.opera.com/archive.key",
+        "keyring": "/usr/share/keyrings/opera-archive-keyring.gpg",
+        "deb_line": "deb [signed-by=/usr/share/keyrings/opera-archive-keyring.gpg] https://deb.opera.com/opera-stable/ stable non-free",
+        "list_file": "/etc/apt/sources.list.d/opera-stable.list",
+        "dearmor": true
+      },
+      "package": "opera-stable",
+      "snap": "opera",
+      "flatpak": "com.opera.Opera",
+      "description": "Opera includes a sidebar, workspaces, and an optional built-in VPN. The .deb registers Opera's apt repository so the browser updates through apt.",
+      "icon": "https://www.opera.com/public/images/favicon/apple-icon-180x180.png"
     },
     {
       "name": "Optiimage",
@@ -13855,6 +13102,18 @@
       "publisher": "korcankaraokcu",
       "description": "Reverse engineering tool for linux games.",
       "icon": "https://portable-linux-apps.github.io/icons/pince.webp"
+    },
+    {
+      "name": "Pinta",
+      "category": "Creative & Design",
+      "kind": "ppa",
+      "summary": "Simple drawing and image editing",
+      "homepage": "https://www.pinta-project.com",
+      "ppa": "ppa:pinta-maintainers/pinta-stable",
+      "package": "pinta",
+      "flatpak": "com.github.PintaProject.Pinta",
+      "description": "Pinta is a GTK paint program inspired by Paint.NET. Installed from the official Pinta PPA.",
+      "icon": "https://www.pinta-project.com/favicon.ico"
     },
     {
       "name": "Pinta Gtk3",
@@ -15424,6 +14683,22 @@
       "icon": "https://portable-linux-apps.github.io/icons/runjs.webp"
     },
     {
+      "name": "RustDesk",
+      "category": "Cloud Storage & Sync",
+      "kind": "appimage",
+      "summary": "Open-source remote desktop",
+      "homepage": "https://rustdesk.com",
+      "github": "rustdesk/rustdesk",
+      "asset": "rustdesk-*.{arch}.AppImage",
+      "deb_asset": "rustdesk-*-sciter.deb",
+      "source_page": "https://portable-linux-apps.github.io/app/rustdesk.html",
+      "license": "AGPL-3.0",
+      "publisher": "rustdesk",
+      "flatpak": "com.rustdesk.RustDesk",
+      "description": "RustDesk is a remote desktop alternative to TeamViewer that you can self-host. Official AppImage and .deb builds are on GitHub releases.",
+      "icon": "https://rustdesk.com/favicon.ico"
+    },
+    {
       "name": "Rustdesk Enhanced",
       "category": "Cloud Storage & Sync",
       "kind": "appimage",
@@ -15917,6 +15192,24 @@
       "icon": "https://portable-linux-apps.github.io/icons/sidra.webp"
     },
     {
+      "name": "Signal",
+      "category": "Communication",
+      "kind": "repo",
+      "summary": "Private messenger with end-to-end encryption",
+      "homepage": "https://signal.org",
+      "repo": {
+        "key_url": "https://updates.signal.org/desktop/apt/keys.asc",
+        "keyring": "/usr/share/keyrings/signal-desktop-keyring.gpg",
+        "deb_line": "deb [arch=amd64 signed-by=/usr/share/keyrings/signal-desktop-keyring.gpg] https://updates.signal.org/desktop/apt xenial main",
+        "list_file": "/etc/apt/sources.list.d/signal-desktop.list",
+        "dearmor": true
+      },
+      "package": "signal-desktop",
+      "flatpak": "org.signal.Signal",
+      "description": "Signal Desktop is the official Linux client for Signal, with end-to-end encryption by default. Installed from Signal's official apt repository — the Flathub build is community-maintained.",
+      "icon": "https://signal.org/favicons/favicon.ico"
+    },
+    {
       "name": "Simitone",
       "category": "Utilities & Tools",
       "kind": "appimage",
@@ -15930,6 +15223,21 @@
       "description": "Unofficial, re-implementation of The Sims 1, based off of FreeSO.",
       "icon": "https://portable-linux-apps.github.io/icons/simitone.webp",
       "unofficial": true
+    },
+    {
+      "name": "Simplenote Electron",
+      "category": "Utilities & Tools",
+      "kind": "appimage",
+      "summary": "Simplenote.",
+      "homepage": "https://github.com/Automattic/simplenote-electron",
+      "github": "Automattic/simplenote-electron",
+      "asset": "Simplenote-linux-*.AppImage",
+      "deb_asset": "Simplenote-linux-*-amd64.deb",
+      "source_page": "https://portable-linux-apps.github.io/app/simplenote-electron.html",
+      "license": "GPL-2.0",
+      "publisher": "Automattic",
+      "description": "Simplenote.",
+      "icon": "https://portable-linux-apps.github.io/icons/simplenote-electron.webp"
     },
     {
       "name": "Simplescreenrecorder",
@@ -16281,6 +15589,25 @@
       "icon": "https://portable-linux-apps.github.io/icons/splayer.webp"
     },
     {
+      "name": "Spotify",
+      "category": "Media & Entertainment",
+      "kind": "repo",
+      "summary": "Music and podcast streaming",
+      "homepage": "https://www.spotify.com",
+      "repo": {
+        "key_url": "https://download.spotify.com/debian/pubkey_5384CE82BA52C83A.asc",
+        "keyring": "/usr/share/keyrings/spotify-archive-keyring.gpg",
+        "deb_line": "deb [signed-by=/usr/share/keyrings/spotify-archive-keyring.gpg] https://repository.spotify.com stable non-free",
+        "list_file": "/etc/apt/sources.list.d/spotify.list",
+        "dearmor": true
+      },
+      "package": "spotify-client",
+      "snap": "spotify",
+      "flatpak": "com.spotify.Client",
+      "description": "Spotify for Linux from Spotify's own apt repository. Also available as an official snap.",
+      "icon": "https://www.spotify.com/favicon.ico"
+    },
+    {
       "name": "Spotify Qt",
       "category": "Media & Entertainment",
       "kind": "appimage",
@@ -16367,6 +15694,19 @@
       "icon": "https://portable-linux-apps.github.io/icons/st+.webp"
     },
     {
+      "name": "Stacer",
+      "category": "Utilities & Tools",
+      "kind": "appimage",
+      "summary": "Linux system optimizer and monitor",
+      "homepage": "https://github.com/oguzhaninan/Stacer",
+      "github": "oguzhaninan/Stacer",
+      "license": "GPL-3.0",
+      "publisher": "oguzhaninan",
+      "description": "Stacer is a community system cleaner and monitor. The project is dormant; Linux .deb builds remain on GitHub releases.",
+      "icon": "https://github.com/oguzhaninan.png?size=256",
+      "unofficial": true
+    },
+    {
       "name": "Stackandconquer",
       "category": "Gaming",
       "kind": "appimage",
@@ -16423,6 +15763,20 @@
       "publisher": "getstation",
       "description": "A single place for all of your web applications.",
       "icon": "https://portable-linux-apps.github.io/icons/station.webp"
+    },
+    {
+      "name": "Steam",
+      "category": "Gaming",
+      "kind": "deb",
+      "summary": "Valve's game store and library",
+      "homepage": "https://store.steampowered.com",
+      "deb_url": "https://repo.steampowered.com/steam/archive/precise/steam_latest.deb",
+      "deb_is_setup": true,
+      "package": "steam-launcher",
+      "snap": "steam",
+      "flatpak": "com.valvesoftware.Steam",
+      "description": "Steam is Valve's store, library, and overlay for PC games. The .deb registers repo.steampowered.com so Steam updates through apt.",
+      "icon": "https://store.steampowered.com/favicon.ico"
     },
     {
       "name": "Steamdepotdownloadergui",
@@ -16581,6 +15935,20 @@
       "publisher": "adil192",
       "description": "Solve unlimited procedurally-generated nonogram puzzles!",
       "icon": "https://portable-linux-apps.github.io/icons/super-nonogram.webp"
+    },
+    {
+      "name": "Super Productivity",
+      "category": "Productivity & Office",
+      "kind": "appimage",
+      "summary": "Advanced todo list and time tracker",
+      "homepage": "https://super-productivity.com",
+      "github": "johannesjo/super-productivity",
+      "asset": "superProductivity-*.{arch}.AppImage",
+      "license": "MIT",
+      "publisher": "super-productivity",
+      "snap": "superproductivity",
+      "description": "Super Productivity is a personal task manager with time tracking and Jira/GitHub integration. Official Linux builds are on GitHub releases.",
+      "icon": "https://super-productivity.com/favicon.ico"
     },
     {
       "name": "Superbacked",
@@ -16754,6 +16122,22 @@
       "publisher": "s00d",
       "description": "Run predefined commands in various terminal applications.",
       "icon": "https://portable-linux-apps.github.io/icons/switchshuttle.webp"
+    },
+    {
+      "name": "Syncthing",
+      "category": "Cloud Storage & Sync",
+      "kind": "repo",
+      "summary": "Continuous peer-to-peer file sync",
+      "homepage": "https://syncthing.net",
+      "repo": {
+        "key_url": "https://syncthing.net/release-key.gpg",
+        "keyring": "/usr/share/keyrings/syncthing-archive-keyring.gpg",
+        "deb_line": "deb [signed-by=/usr/share/keyrings/syncthing-archive-keyring.gpg] https://apt.syncthing.net/ syncthing stable",
+        "list_file": "/etc/apt/sources.list.d/syncthing.list"
+      },
+      "package": "syncthing",
+      "description": "Syncthing syncs folders between your devices with no central server. Installed from Syncthing's official apt repository.",
+      "icon": "https://syncthing.net/favicon.ico"
     },
     {
       "name": "Synfig",
@@ -19306,6 +18690,23 @@
       "icon": "https://portable-linux-apps.github.io/icons/zsync2.webp"
     },
     {
+      "name": "Zulip",
+      "category": "Communication",
+      "kind": "appimage",
+      "summary": "Threaded team chat",
+      "homepage": "https://zulip.com",
+      "github": "zulip/zulip-desktop",
+      "asset": "Zulip-*.{arch}.AppImage",
+      "deb_asset": "Zulip-*-amd64.deb",
+      "source_page": "https://portable-linux-apps.github.io/app/zulip.html",
+      "license": "Apache-2.0",
+      "publisher": "zulip",
+      "snap": "zulip",
+      "flatpak": "org.zulip.Zulip",
+      "description": "Zulip organizes conversations into topic threads. Official Linux builds are published on GitHub releases.",
+      "icon": "https://zulip.com/favicon.ico"
+    },
+    {
       "name": "Zx Poly",
       "category": "Gaming",
       "kind": "appimage",
@@ -20340,6 +19741,18 @@
       ]
     },
     {
+      "name": "Cryptomator",
+      "category": "Security",
+      "kind": "ppa",
+      "summary": "Client-side encryption for your cloud storage",
+      "homepage": "https://cryptomator.org",
+      "ppa": "ppa:sebastian-stenzel/cryptomator",
+      "package": "cryptomator",
+      "flatpak": "org.cryptomator.Cryptomator",
+      "description": "Cryptomator encrypts files before they reach Dropbox, Google Drive, or any other cloud. Installed from the official Cryptomator PPA.",
+      "icon": "https://cryptomator.org/favicon.ico"
+    },
+    {
       "name": "Datcord",
       "category": "Communication",
       "kind": "appimage",
@@ -20685,6 +20098,24 @@
       "screenshots": [
         "https://appimage.github.io/database/Filmulator/screenshot.png"
       ]
+    },
+    {
+      "name": "Firefox",
+      "category": "Browsers",
+      "kind": "repo",
+      "summary": "Independent web browser from Mozilla",
+      "homepage": "https://www.mozilla.org/firefox/",
+      "repo": {
+        "key_url": "https://packages.mozilla.org/apt/repo-signing-key.gpg",
+        "keyring": "/etc/apt/keyrings/packages.mozilla.org.asc",
+        "deb_line": "deb [signed-by=/etc/apt/keyrings/packages.mozilla.org.asc] https://packages.mozilla.org/apt mozilla main",
+        "list_file": "/etc/apt/sources.list.d/mozilla.list"
+      },
+      "package": "firefox",
+      "snap": "firefox",
+      "flatpak": "org.mozilla.firefox",
+      "description": "Firefox is Mozilla's independent, open-source web browser with strong privacy defaults. Installed from Mozilla's official apt repository so it is not replaced by the Ubuntu snap transition package.",
+      "icon": "https://www.mozilla.org/media/img/favicons/firefox/browser/apple-touch-icon.79c2a2cf0c4d.png"
     },
     {
       "name": "Firefox Beta",
@@ -21933,6 +21364,24 @@
       "icon": "https://github.com/xemxx.png?size=256",
       "screenshots": [
         "https://appimage.github.io/database/Markman/screenshot.png"
+      ]
+    },
+    {
+      "name": "Mark Text",
+      "category": "Productivity & Office",
+      "kind": "appimage",
+      "summary": "Next generation markdown editor",
+      "homepage": "https://github.com/marktext/marktext",
+      "github": "marktext/marktext",
+      "asset": "marktext-linux-*.AppImage",
+      "deb_asset": "marktext-linux-*.deb",
+      "source_page": "https://appimage.github.io/marktext/",
+      "license": "MIT",
+      "publisher": "marktext",
+      "description": "Next generation markdown editor",
+      "icon": "https://github.com/marktext.png?size=256",
+      "screenshots": [
+        "https://appimage.github.io/database/marktext/screenshot.png"
       ]
     },
     {
@@ -23401,6 +22850,19 @@
       ]
     },
     {
+      "name": "RetroArch",
+      "category": "Gaming",
+      "kind": "ppa",
+      "summary": "Frontend for emulators, game engines, and media players",
+      "homepage": "https://www.retroarch.com",
+      "ppa": "ppa:libretro/stable",
+      "package": "retroarch",
+      "snap": "retroarch",
+      "flatpak": "org.libretro.RetroArch",
+      "description": "RetroArch is the reference Libretro frontend. Installed from the official Libretro PPA.",
+      "icon": "https://www.retroarch.com/favicon.ico"
+    },
+    {
       "name": "rmw",
       "category": "Utilities & Tools",
       "kind": "appimage",
@@ -24836,6 +24298,606 @@
       "screenshots": [
         "https://appimage.github.io/database/ZeGrapher/screenshot.png"
       ]
+    },
+    {
+      "name": "Zoom",
+      "category": "Communication",
+      "kind": "deb",
+      "summary": "Video meetings and webinars",
+      "homepage": "https://zoom.us",
+      "deb_url": "https://zoom.us/client/latest/zoom_amd64.deb",
+      "package": "zoom",
+      "snap": "zoom-client",
+      "flatpak": "us.zoom.Zoom",
+      "description": "Zoom's Linux desktop client for meetings, webinars, and chat. Installs the official Zoom .deb, which updates from Zoom's own repository afterward.",
+      "icon": "https://st1.zoom.us/zoom.ico"
+    },
+    {
+      "name": "OpenSnitch",
+      "category": "Security",
+      "kind": "appimage",
+      "summary": "GNU/Linux interactive application firewall",
+      "homepage": "https://github.com/evilsocket/opensnitch",
+      "github": "evilsocket/opensnitch",
+      "license": "GPL-3.0",
+      "publisher": "evilsocket",
+      "description": "OpenSnitch is an interactive outbound application firewall for GNU/Linux. Community .deb and AppImage builds are published on GitHub releases.",
+      "icon": "https://github.com/evilsocket.png?size=256",
+      "unofficial": true
+    },
+    {
+      "name": "LibreWolf",
+      "category": "Browsers",
+      "kind": "repo",
+      "summary": "Privacy-hardened Firefox fork",
+      "homepage": "https://librewolf.net",
+      "repo": {
+        "key_url": "https://repo.librewolf.net/pubkey.gpg",
+        "keyring": "/usr/share/keyrings/librewolf.gpg",
+        "deb_line": "deb [arch=amd64,arm64 signed-by=/usr/share/keyrings/librewolf.gpg] https://repo.librewolf.net librewolf main",
+        "list_file": "/etc/apt/sources.list.d/librewolf.list",
+        "dearmor": true
+      },
+      "package": "librewolf",
+      "flatpak": "io.gitlab.librewolf-community",
+      "description": "LibreWolf is a community fork of Firefox with telemetry removed and stricter privacy defaults. Installed from the official LibreWolf apt repository.",
+      "icon": "https://librewolf.net/favicon.ico"
+    },
+    {
+      "name": "Ungoogled Chromium",
+      "category": "Browsers",
+      "kind": "repo",
+      "summary": "Chromium without Google web services",
+      "homepage": "https://github.com/ungoogled-software/ungoogled-chromium",
+      "repo": {
+        "key_url": "https://download.opensuse.org/repositories/home:ungoogled_chromium/Ubuntu_$(lsb_release -rs)/Release.key",
+        "keyring": "/usr/share/keyrings/ungoogled-chromium.gpg",
+        "deb_line": "deb [signed-by=/usr/share/keyrings/ungoogled-chromium.gpg] https://download.opensuse.org/repositories/home:/ungoogled_chromium/Ubuntu_$(lsb_release -rs)/ /",
+        "list_file": "/etc/apt/sources.list.d/ungoogled-chromium.list",
+        "dearmor": true
+      },
+      "package": "ungoogled-chromium",
+      "flatpak": "io.github.ungoogled_software.ungoogled_chromium",
+      "description": "Ungoogled Chromium is a community build of Chromium with Google integration removed. Installed from the OBS repository; also available on Flathub.",
+      "icon": "https://github.com/ungoogled-software.png?size=256",
+      "unofficial": true
+    },
+    {
+      "name": "Slack",
+      "category": "Communication",
+      "kind": "deb",
+      "summary": "Team messaging and collaboration",
+      "homepage": "https://slack.com",
+      "deb_url": "https://slack.com/ssb/download-linux?type=deb",
+      "deb_is_setup": true,
+      "package": "slack-desktop",
+      "snap": "slack",
+      "flatpak": "com.slack.Slack",
+      "description": "Slack for Linux. The .deb registers Slack's apt repository so the app updates through your normal system updates.",
+      "icon": "https://a.slack-edge.com/80588/marketing/img/meta/favicon-32.png"
+    },
+    {
+      "name": "Element",
+      "category": "Communication",
+      "kind": "repo",
+      "summary": "Matrix messenger from the Element team",
+      "homepage": "https://element.io",
+      "repo": {
+        "key_url": "https://packages.element.io/debian/element-io-archive-keyring.gpg",
+        "keyring": "/usr/share/keyrings/element-io-archive-keyring.gpg",
+        "deb_line": "deb [signed-by=/usr/share/keyrings/element-io-archive-keyring.gpg] https://packages.element.io/debian/ default main",
+        "list_file": "/etc/apt/sources.list.d/element-io.list"
+      },
+      "package": "element-desktop",
+      "snap": "element-desktop",
+      "flatpak": "im.riot.Riot",
+      "description": "Element is the flagship Matrix client for encrypted team chat. Installed from Element's official apt repository.",
+      "icon": "https://element.io/images/favicon.ico"
+    },
+    {
+      "name": "Mattermost",
+      "category": "Communication",
+      "kind": "repo",
+      "summary": "Self-hosted team messaging",
+      "homepage": "https://mattermost.com",
+      "repo": {
+        "key_url": "https://deb.packages.mattermost.com/pubkey.gpg",
+        "keyring": "/usr/share/keyrings/mattermost-archive-keyring.gpg",
+        "deb_line": "deb [signed-by=/usr/share/keyrings/mattermost-archive-keyring.gpg] https://deb.packages.mattermost.com stable main",
+        "list_file": "/etc/apt/sources.list.d/mattermost.list",
+        "dearmor": true
+      },
+      "package": "mattermost-desktop",
+      "snap": "mattermost-desktop",
+      "flatpak": "com.mattermost.Desktop",
+      "description": "Mattermost Desktop is the official client for Mattermost servers. Installed from Mattermost's official apt repository.",
+      "icon": "https://mattermost.com/favicon.ico"
+    },
+    {
+      "name": "Rocket.Chat",
+      "category": "Communication",
+      "kind": "appimage",
+      "summary": "Self-hosted Slack alternative",
+      "homepage": "https://rocket.chat",
+      "github": "RocketChat/Rocket.Chat.Electron",
+      "asset": "rocketchat-*.{arch}.AppImage",
+      "license": "MIT",
+      "publisher": "RocketChat",
+      "snap": "rocketchat-desktop",
+      "flatpak": "chat.rocket.RocketChat",
+      "description": "Rocket.Chat Desktop connects to your own Rocket.Chat server. Official .deb and AppImage builds are on GitHub releases.",
+      "icon": "https://rocket.chat/favicon.ico"
+    },
+    {
+      "name": "Wire",
+      "category": "Communication",
+      "kind": "repo",
+      "summary": "Secure messenger from Wire",
+      "homepage": "https://wire.com",
+      "repo": {
+        "key_url": "https://wire-app.wire.com/linux/releases.key",
+        "keyring": "/usr/share/keyrings/wire-desktop.gpg",
+        "deb_line": "deb [arch=amd64 signed-by=/usr/share/keyrings/wire-desktop.gpg] https://wire-app.wire.com/linux/debian stable main",
+        "list_file": "/etc/apt/sources.list.d/wire-desktop.list",
+        "dearmor": true
+      },
+      "package": "wire-desktop",
+      "description": "Wire is an audited, end-to-end encrypted messenger for teams and personal use. Installed from Wire's official apt repository.",
+      "icon": "https://wire.com/favicon.ico"
+    },
+    {
+      "name": "Jami",
+      "category": "Communication",
+      "kind": "repo",
+      "summary": "Distributed, account-free audio and video calls",
+      "homepage": "https://jami.net",
+      "repo": {
+        "key_url": "https://dl.jami.net/public-key.gpg",
+        "keyring": "/usr/share/keyrings/jami-archive-keyring.gpg",
+        "deb_line": "deb [signed-by=/usr/share/keyrings/jami-archive-keyring.gpg] https://dl.jami.net/stable/ubuntu_$(lsb_release -rs)/ jami main",
+        "list_file": "/etc/apt/sources.list.d/jami.list",
+        "dearmor": true
+      },
+      "package": "jami",
+      "description": "Jami is a GNU package for distributed audio, video, and chat with no central server. Installed from the official Jami apt repository.",
+      "icon": "https://jami.net/favicon.ico"
+    },
+    {
+      "name": "Session",
+      "category": "Communication",
+      "kind": "repo",
+      "summary": "Anonymous messenger with no phone number",
+      "homepage": "https://getsession.org",
+      "repo": {
+        "key_url": "https://deb.oxen.io/pub.gpg",
+        "keyring": "/usr/share/keyrings/oxen.gpg",
+        "deb_line": "deb [signed-by=/usr/share/keyrings/oxen.gpg] https://deb.oxen.io $(lsb_release -cs) main",
+        "list_file": "/etc/apt/sources.list.d/oxen.list",
+        "dearmor": true
+      },
+      "package": "session-desktop",
+      "description": "Session is a private messenger that does not require a phone number. Installed from the Oxen apt repository.",
+      "icon": "https://getsession.org/favicon.ico"
+    },
+    {
+      "name": "Mailspring",
+      "category": "Communication",
+      "kind": "appimage",
+      "summary": "Fast, modern email client",
+      "homepage": "https://getmailspring.com",
+      "github": "Foundry376/Mailspring",
+      "asset": "Mailspring-*.{arch}.AppImage",
+      "license": "GPL-3.0",
+      "publisher": "Foundry376",
+      "snap": "mailspring",
+      "description": "Mailspring is a beautiful, fast email client with unified inbox and local search. Official Linux builds are on GitHub releases.",
+      "icon": "https://getmailspring.com/favicon.ico"
+    },
+    {
+      "name": "Kodi",
+      "category": "Media & Entertainment",
+      "kind": "ppa",
+      "summary": "Open-source media center",
+      "homepage": "https://kodi.tv",
+      "ppa": "ppa:team-xbmc/ppa",
+      "package": "kodi",
+      "snap": "kodi",
+      "flatpak": "tv.kodi.Kodi",
+      "description": "Kodi plays movies, TV, music, and more from local and network sources. Installed from the official Team Kodi PPA.",
+      "icon": "https://kodi.tv/favicon.ico"
+    },
+    {
+      "name": "OBS Studio",
+      "category": "Media & Entertainment",
+      "kind": "ppa",
+      "summary": "Live streaming and recording",
+      "homepage": "https://obsproject.com",
+      "ppa": "ppa:obsproject/obs-studio",
+      "package": "obs-studio",
+      "snap": "obs-studio",
+      "flatpak": "com.obsproject.Studio",
+      "description": "OBS Studio is the standard tool for live streaming and screen recording. Installed from the official OBS Project PPA; Flathub is also official.",
+      "icon": "https://obsproject.com/favicon.ico"
+    },
+    {
+      "name": "WineHQ",
+      "category": "Gaming",
+      "kind": "repo",
+      "summary": "Run Windows applications on Linux",
+      "homepage": "https://www.winehq.org",
+      "repo": {
+        "key_url": "https://dl.winehq.org/wine-builds/winehq.key",
+        "keyring": "/etc/apt/keyrings/winehq-archive.key",
+        "deb_line": "deb [signed-by=/etc/apt/keyrings/winehq-archive.key] https://dl.winehq.org/wine-builds/ubuntu $(lsb_release -cs) main",
+        "list_file": "/etc/apt/sources.list.d/winehq.list"
+      },
+      "package": "winehq-stable",
+      "description": "WineHQ's official packages, newer than the Ubuntu archive. i386 multiarch must be enabled on the machine before install. Installed from dl.winehq.org.",
+      "icon": "https://www.winehq.org/favicon.ico"
+    },
+    {
+      "name": "Lutris",
+      "category": "Gaming",
+      "kind": "ppa",
+      "summary": "Open gaming platform for Linux",
+      "homepage": "https://lutris.net",
+      "ppa": "ppa:lutris-team/lutris",
+      "package": "lutris",
+      "flatpak": "net.lutris.Lutris",
+      "description": "Lutris installs and runs games from GOG, Humble, Steam, and emulators through a single library. Installed from the official Lutris PPA.",
+      "icon": "https://lutris.net/favicon.ico"
+    },
+    {
+      "name": "OpenRGB",
+      "category": "Gaming",
+      "kind": "appimage",
+      "summary": "Open-source RGB lighting control",
+      "homepage": "https://openrgb.org",
+      "github": "CalcProgrammer1/OpenRGB",
+      "license": "GPL-2.0",
+      "publisher": "CalcProgrammer1",
+      "description": "OpenRGB controls RGB lighting across many motherboard and peripheral brands without vendor software. Linux builds are on GitHub releases.",
+      "icon": "https://openrgb.org/favicon.ico"
+    },
+    {
+      "name": "ONLYOFFICE Desktop Editors",
+      "category": "Productivity & Office",
+      "kind": "deb",
+      "summary": "Office suite compatible with Microsoft Office formats",
+      "homepage": "https://www.onlyoffice.com",
+      "deb_url": "https://download.onlyoffice.com/install/desktop/editors/linux/onlyoffice-desktopeditors_amd64.deb",
+      "package": "onlyoffice-desktopeditors",
+      "snap": "onlyoffice-desktopeditors",
+      "flatpak": "org.onlyoffice.desktopeditors",
+      "description": "ONLYOFFICE Desktop Editors opens and edits DOCX, XLSX, and PPTX locally. Installs the official .deb; snap and Flathub channels are also official.",
+      "icon": "https://www.onlyoffice.com/favicon.ico"
+    },
+    {
+      "name": "Obsidian",
+      "category": "Productivity & Office",
+      "kind": "appimage",
+      "summary": "Local-first markdown knowledge base",
+      "homepage": "https://obsidian.md",
+      "github": "obsidianmd/obsidian-releases",
+      "asset": "Obsidian-*.AppImage",
+      "apparmor": true,
+      "publisher": "obsidianmd",
+      "flatpak": "md.obsidian.Obsidian",
+      "description": "Obsidian is a local-first markdown editor with backlinks and a plugin ecosystem. Official AppImage and .deb builds are on GitHub releases.",
+      "icon": "https://obsidian.md/favicon.ico"
+    },
+    {
+      "name": "Zotero",
+      "category": "Productivity & Office",
+      "kind": "repo",
+      "summary": "Collect, organize, and cite research",
+      "homepage": "https://www.zotero.org",
+      "repo": {
+        "key_url": "https://raw.githubusercontent.com/retorquere/zotero-deb/master/zotero.gpg",
+        "keyring": "/usr/share/keyrings/zotero.gpg",
+        "deb_line": "deb [signed-by=/usr/share/keyrings/zotero.gpg by-hash=force] https://zotero.retorque.re/file/apt-package-archive ./",
+        "list_file": "/etc/apt/sources.list.d/zotero.list"
+      },
+      "package": "zotero",
+      "flatpak": "org.zotero.Zotero",
+      "description": "Zotero is a free reference manager. The community zotero-deb apt repository packages upstream Zotero for Debian and Ubuntu.",
+      "icon": "https://www.zotero.org/favicon.ico",
+      "unofficial": true
+    },
+    {
+      "name": "Simplenote",
+      "category": "Productivity & Office",
+      "kind": "appimage",
+      "summary": "Simple synced notes from Automattic",
+      "homepage": "https://simplenote.com",
+      "github": "Automattic/simplenote-electron",
+      "asset": "Simplenote-linux-*.{arch}.AppImage",
+      "deb_asset": "Simplenote-linux-*-amd64.deb",
+      "source_page": "https://portable-linux-apps.github.io/app/simplenote-electron.html",
+      "license": "GPL-2.0",
+      "publisher": "Automattic",
+      "snap": "simplenote",
+      "description": "Simplenote is a fast, synced note app from Automattic. Official Linux builds are on GitHub releases.",
+      "icon": "https://simplenote.com/favicon.ico"
+    },
+    {
+      "name": "Standard Notes",
+      "category": "Productivity & Office",
+      "kind": "appimage",
+      "summary": "Encrypted notes with a longevity focus",
+      "homepage": "https://standardnotes.com",
+      "github": "standardnotes/app",
+      "asset": "standard-notes-*.{arch}.AppImage",
+      "license": "AGPL-3.0",
+      "publisher": "standardnotes",
+      "description": "Standard Notes is an encrypted notes app designed for decades of use. Official Linux builds are on GitHub releases.",
+      "icon": "https://standardnotes.com/favicon.ico"
+    },
+    {
+      "name": "MEGAsync",
+      "category": "Cloud Storage & Sync",
+      "kind": "repo",
+      "summary": "MEGA cloud storage desktop client",
+      "homepage": "https://mega.io/desktop",
+      "repo": {
+        "key_url": "https://mega.nz/linux/repo/xUbuntu_$(lsb_release -rs)/Release.key",
+        "keyring": "/usr/share/keyrings/megasync.gpg",
+        "deb_line": "deb [signed-by=/usr/share/keyrings/megasync.gpg] https://mega.nz/linux/repo/xUbuntu_$(lsb_release -rs)/ ./",
+        "list_file": "/etc/apt/sources.list.d/megasync.list",
+        "dearmor": true
+      },
+      "package": "megasync",
+      "description": "MEGAsync syncs your MEGA cloud with a local folder and includes end-to-end encryption. Installed from MEGA's per-Ubuntu-release apt repository.",
+      "icon": "https://mega.io/favicon.ico"
+    },
+    {
+      "name": "Nextcloud Desktop",
+      "category": "Cloud Storage & Sync",
+      "kind": "ppa",
+      "summary": "Sync client for Nextcloud servers",
+      "homepage": "https://nextcloud.com",
+      "ppa": "ppa:nextcloud-devs/client",
+      "package": "nextcloud-desktop",
+      "snap": "nextcloud",
+      "flatpak": "com.nextcloud.desktopclient.nextcloud",
+      "description": "The official Nextcloud desktop client. Installed from the Nextcloud developers PPA for a newer build than the Ubuntu archive.",
+      "icon": "https://nextcloud.com/favicon.ico"
+    },
+    {
+      "name": "rclone",
+      "category": "Cloud Storage & Sync",
+      "kind": "deb",
+      "summary": "Rsync for cloud storage",
+      "homepage": "https://rclone.org",
+      "deb_url": "https://downloads.rclone.org/rclone-current-linux-amd64.deb",
+      "package": "rclone",
+      "description": "rclone syncs files to and from dozens of cloud providers. The official .deb is newer than the Ubuntu archive package.",
+      "icon": "https://rclone.org/img/favicon.ico"
+    },
+    {
+      "name": "VirtualBox",
+      "category": "Utilities & Tools",
+      "kind": "repo",
+      "summary": "Type-2 hypervisor for desktop virtual machines",
+      "homepage": "https://www.virtualbox.org",
+      "repo": {
+        "key_url": "https://www.virtualbox.org/download/oracle_vbox_2016.asc",
+        "keyring": "/usr/share/keyrings/oracle-virtualbox-2016.gpg",
+        "deb_line": "deb [arch=amd64 signed-by=/usr/share/keyrings/oracle-virtualbox-2016.gpg] https://download.virtualbox.org/virtualbox/debian $(lsb_release -cs) contrib",
+        "list_file": "/etc/apt/sources.list.d/virtualbox.list",
+        "dearmor": true
+      },
+      "package": "virtualbox-7.2",
+      "description": "Oracle VirtualBox runs virtual machines with optional kernel modules. Installed from Oracle's official apt repository — the only supported Linux channel for the closed-source extension pack workflow.",
+      "icon": "https://www.virtualbox.org/favicon.ico"
+    },
+    {
+      "name": "TLP",
+      "category": "Utilities & Tools",
+      "kind": "ppa",
+      "summary": "Laptop battery optimization",
+      "homepage": "https://linrunner.de/tlp/",
+      "ppa": "ppa:linrunner/tlp",
+      "package": "tlp",
+      "description": "TLP applies power-saving settings automatically on laptops. The official PPA is newer than the Ubuntu archive.",
+      "icon": "https://linrunner.de/favicon.ico"
+    },
+    {
+      "name": "Visual Studio Code",
+      "category": "Development",
+      "kind": "repo",
+      "summary": "Code editor from Microsoft",
+      "homepage": "https://code.visualstudio.com",
+      "repo": {
+        "key_url": "https://packages.microsoft.com/keys/microsoft.asc",
+        "keyring": "/usr/share/keyrings/microsoft.gpg",
+        "deb_line": "deb [arch=amd64,arm64,armhf signed-by=/usr/share/keyrings/microsoft.gpg] https://packages.microsoft.com/repos/code stable main",
+        "list_file": "/etc/apt/sources.list.d/vscode.list",
+        "dearmor": true
+      },
+      "package": "code",
+      "snap": "code",
+      "flatpak": "com.visualstudio.code",
+      "description": "Visual Studio Code with IntelliSense, debugging, and a huge extension marketplace. Installed from Microsoft's official apt repository so it updates through apt.",
+      "icon": "https://code.visualstudio.com/favicon.ico"
+    },
+    {
+      "name": "Sublime Text",
+      "category": "Development",
+      "kind": "repo",
+      "summary": "Sophisticated text editor for code, markup, and prose",
+      "homepage": "https://www.sublimetext.com",
+      "repo": {
+        "key_url": "https://download.sublimetext.com/sublimehq-pub.gpg",
+        "keyring": "/etc/apt/keyrings/sublimehq-archive.gpg",
+        "deb_line": "deb [signed-by=/etc/apt/keyrings/sublimehq-archive.gpg] https://download.sublimetext.com/ apt/stable/",
+        "list_file": "/etc/apt/sources.list.d/sublime-text.list",
+        "dearmor": true
+      },
+      "package": "sublime-text",
+      "description": "Sublime Text is a fast, proprietary editor with a powerful goto-anything palette. Installed from Sublime HQ's official apt repository.",
+      "icon": "https://www.sublimetext.com/favicon.ico"
+    },
+    {
+      "name": "DBeaver Community",
+      "category": "Development",
+      "kind": "deb",
+      "summary": "Universal database tool",
+      "homepage": "https://dbeaver.io",
+      "deb_url": "https://dbeaver.io/files/dbeaver-ce_latest_amd64.deb",
+      "package": "dbeaver-ce",
+      "snap": "dbeaver-ce",
+      "flatpak": "io.dbeaver.DBeaverCommunity",
+      "description": "DBeaver Community is a free multi-database GUI. Installs the official latest .deb from dbeaver.io.",
+      "icon": "https://dbeaver.io/favicon.ico"
+    },
+    {
+      "name": "Docker Engine",
+      "category": "Development",
+      "kind": "repo",
+      "summary": "Container runtime and CLI from Docker",
+      "homepage": "https://docs.docker.com/engine/",
+      "repo": {
+        "key_url": "https://download.docker.com/linux/ubuntu/gpg",
+        "keyring": "/etc/apt/keyrings/docker.asc",
+        "deb_line": "deb [arch=$(dpkg --print-architecture) signed-by=/etc/apt/keyrings/docker.asc] https://download.docker.com/linux/ubuntu $(lsb_release -cs) stable",
+        "list_file": "/etc/apt/sources.list.d/docker.list"
+      },
+      "package": "docker-ce",
+      "description": "Docker Engine, CLI, containerd, and Compose plugin from Docker's official apt repository. This is the supported Ubuntu channel, not the archive docker.io package.",
+      "icon": "https://www.docker.com/favicon.ico"
+    },
+    {
+      "name": "PostgreSQL",
+      "category": "Development",
+      "kind": "repo",
+      "summary": "PostgreSQL from the PGDG apt repository",
+      "homepage": "https://www.postgresql.org",
+      "repo": {
+        "key_url": "https://www.postgresql.org/media/keys/ACCC4CF8.asc",
+        "keyring": "/usr/share/keyrings/postgresql.gpg",
+        "deb_line": "deb [signed-by=/usr/share/keyrings/postgresql.gpg] https://apt.postgresql.org/pub/repos/apt $(lsb_release -cs)-pgdg main",
+        "list_file": "/etc/apt/sources.list.d/pgdg.list",
+        "dearmor": true
+      },
+      "package": "postgresql",
+      "description": "The PostgreSQL Global Development Group apt repository carries current PostgreSQL major versions for Ubuntu, newer than the archive.",
+      "icon": "https://www.postgresql.org/favicon.ico"
+    },
+    {
+      "name": "Redis",
+      "category": "Development",
+      "kind": "repo",
+      "summary": "In-memory data store from Redis Ltd.",
+      "homepage": "https://redis.io",
+      "repo": {
+        "key_url": "https://packages.redis.io/gpg",
+        "keyring": "/usr/share/keyrings/redis-archive-keyring.gpg",
+        "deb_line": "deb [signed-by=/usr/share/keyrings/redis-archive-keyring.gpg] https://packages.redis.io/deb $(lsb_release -cs) main",
+        "list_file": "/etc/apt/sources.list.d/redis.list",
+        "dearmor": true
+      },
+      "package": "redis",
+      "description": "Redis from the official packages.redis.io apt repository, newer than the Ubuntu archive.",
+      "icon": "https://redis.io/favicon.ico"
+    },
+    {
+      "name": "Nginx",
+      "category": "Development",
+      "kind": "repo",
+      "summary": "HTTP server from nginx.org",
+      "homepage": "https://nginx.org",
+      "repo": {
+        "key_url": "https://nginx.org/keys/nginx_signing.key",
+        "keyring": "/usr/share/keyrings/nginx-archive-keyring.gpg",
+        "deb_line": "deb [signed-by=/usr/share/keyrings/nginx-archive-keyring.gpg] https://nginx.org/packages/ubuntu $(lsb_release -cs) nginx",
+        "list_file": "/etc/apt/sources.list.d/nginx.list",
+        "dearmor": true
+      },
+      "package": "nginx",
+      "description": "Mainline/stable nginx packages from nginx.org, newer than the Ubuntu archive.",
+      "icon": "https://nginx.org/favicon.ico"
+    },
+    {
+      "name": "Node.js",
+      "category": "Development",
+      "kind": "repo",
+      "summary": "Node.js 22.x from NodeSource",
+      "homepage": "https://nodejs.org",
+      "repo": {
+        "key_url": "https://deb.nodesource.com/gpgkey/nodesource-repo.gpg.key",
+        "keyring": "/etc/apt/keyrings/nodesource.gpg",
+        "deb_line": "deb [signed-by=/etc/apt/keyrings/nodesource.gpg] https://deb.nodesource.com/node_22.x nodistro main",
+        "list_file": "/etc/apt/sources.list.d/nodesource.list",
+        "dearmor": true
+      },
+      "package": "nodejs",
+      "description": "Current Node.js LTS from NodeSource's nodistro apt repository, the vendor channel for Debian and Ubuntu.",
+      "icon": "https://nodejs.org/favicon.ico"
+    },
+    {
+      "name": "Windsurf",
+      "category": "AI",
+      "kind": "repo",
+      "summary": "AI-powered code editor from Exafunction",
+      "homepage": "https://windsurf.com",
+      "repo": {
+        "key_url": "https://windsurf-stable.codeiumdata.com/wVxQEIWkwPUEAGf3/windsurf.gpg",
+        "keyring": "/etc/apt/keyrings/windsurf-stable.gpg",
+        "deb_line": "deb [arch=amd64 signed-by=/etc/apt/keyrings/windsurf-stable.gpg] https://windsurf-stable.codeiumdata.com/wVxQEIWkwPUEAGf3/apt stable main",
+        "list_file": "/etc/apt/sources.list.d/windsurf.list",
+        "dearmor": true
+      },
+      "also_categories": [
+        "Development"
+      ],
+      "package": "windsurf",
+      "description": "Windsurf (formerly Codeium) is an AI code editor. Installed from Windsurf's official apt repository.",
+      "icon": "https://windsurf.com/favicon.ico"
+    },
+    {
+      "name": "Claude Desktop",
+      "category": "AI",
+      "kind": "repo",
+      "summary": "Anthropic's official Claude desktop app for Linux",
+      "homepage": "https://claude.ai/download",
+      "repo": {
+        "key_url": "https://downloads.claude.ai/claude-desktop/key.asc",
+        "keyring": "/usr/share/keyrings/claude-desktop-archive-keyring.asc",
+        "deb_line": "deb [arch=amd64,arm64 signed-by=/usr/share/keyrings/claude-desktop-archive-keyring.asc] https://downloads.claude.ai/claude-desktop/apt/stable stable main",
+        "list_file": "/etc/apt/sources.list.d/claude-desktop.list"
+      },
+      "package": "claude-desktop",
+      "description": "Claude Desktop is Anthropic's official Linux beta client. Installed from Anthropic's apt repository.",
+      "icon": "https://www.anthropic.com/favicon.ico"
+    },
+    {
+      "name": "Msty",
+      "category": "AI",
+      "kind": "appimage",
+      "summary": "Local and cloud LLM chat client",
+      "homepage": "https://msty.app",
+      "github": "mstyapp/msty",
+      "description": "Msty is a desktop client for local and cloud language models. Linux builds are published by the vendor; treat availability as best-effort.",
+      "icon": "https://msty.app/favicon.ico",
+      "unofficial": true
+    },
+    {
+      "name": "Vault",
+      "category": "Development",
+      "kind": "repo",
+      "summary": "Secrets and encryption from HashiCorp",
+      "homepage": "https://www.vaultproject.io",
+      "repo": {
+        "key_url": "https://apt.releases.hashicorp.com/gpg",
+        "keyring": "/usr/share/keyrings/hashicorp-archive-keyring.gpg",
+        "deb_line": "deb [signed-by=/usr/share/keyrings/hashicorp-archive-keyring.gpg] https://apt.releases.hashicorp.com $(lsb_release -cs) main",
+        "list_file": "/etc/apt/sources.list.d/hashicorp.list",
+        "dearmor": true
+      },
+      "package": "vault",
+      "description": "HashiCorp Vault from the same official apt repository that already ships Terraform. One repo, additional package.",
+      "icon": "https://www.hashicorp.com/favicon.ico"
     }
   ]
 }
