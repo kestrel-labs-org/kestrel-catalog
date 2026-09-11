@@ -24898,6 +24898,18 @@
       "package": "vault",
       "description": "HashiCorp Vault from the same official apt repository that already ships Terraform. One repo, additional package.",
       "icon": "https://www.hashicorp.com/favicon.ico"
+    },
+    {
+      "name": "LM Studio Bionic",
+      "category": "AI",
+      "kind": "appimage",
+      "summary": "An agent for work and code.",
+      "homepage": "https://lmstudio.ai",
+      "url": "https://lmstudio.ai/download/bionic/latest/linux/x64",
+      "watch": "Bionic-",
+      "apparmor": true,
+      "description": "Work with Bionic to create and edit documents. Every change is automatically saved, so you can work with your agent freely. Bionic also excels at coding tasks, automations, and computer control. Ask it for help with anything you need done. Real-time voice transcription. Talk to Bionic naturally, and your speech gets transcribed in real time. Your voice and audio data is processed locally and never leaves your device. Supports multiple languages. Natively local. Download the latest local LLMs directly within the app and use them for simple chats or advanced agentic tasks. Powered by the LM Studio runtime, with MLX and llama.cpp under the hood.",
+      "icon": "https://lmstudio.ai/favicon.ico"
     }
   ]
 }
