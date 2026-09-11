@@ -1852,7 +1852,7 @@
       "kind": "appimage",
       "summary": "Desktop app for discovering and running local LLMs",
       "homepage": "https://lmstudio.ai",
-      "url": "https://lmstudio.ai/download/latest/linux/{x64}?format=AppImage",
+      "url": "https://lmstudio.ai/download/bionic/latest/linux/x64",
       "watch": "lm-studio-linux",
       "apparmor": true,
       "flatpak": "ai.lmstudio.lm-studio",
