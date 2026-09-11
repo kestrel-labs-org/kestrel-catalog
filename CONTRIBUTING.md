@@ -10,10 +10,9 @@ in the PR template.
 - Follow [SCHEMA.md](SCHEMA.md) and [CONTENT_POLICY.md](CONTENT_POLICY.md)
 - One app (or a tight group of related apps) per pull request when you can
 
-Staff picks and trending snapshots are maintained by Kestrel Labs. Category
-taxonomy (`listings/categories.json`) is also maintainer-owned. You can
-suggest a staff pick in the PR description; do not edit those files unless
-a maintainer asked you to.
+Staff picks, trending snapshots, and category taxonomy are not part of
+this repo. Suggest a listing in the PR description; do not add extra JSON
+files.
 
 ## Checks
 

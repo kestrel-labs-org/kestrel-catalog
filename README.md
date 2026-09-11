@@ -4,9 +4,9 @@
 
 # kestrel-catalog
 
-Open data for **Kestrel App Manager**: vendor listings, Explore shelves, staff
-picks, a trending snapshot, and the curated category taxonomy. Community
-submits listings via pull request. Kestrel Labs reviews and merges.
+Open data for **Kestrel App Manager**: vendor listings (including AI-tagged
+apps). Community submits listings via pull request. Kestrel Labs reviews
+and merges.
 
 This is metadata, not a warranty of the software. See [CONTENT_POLICY.md](CONTENT_POLICY.md).
 
@@ -18,21 +18,16 @@ listing metadata to the public domain.
 | Path | What it is |
 |---|---|
 | `listings/vendor_apps.json` | Vendor listings (managed install, AppImage, or website) |
-| `listings/categories.json` | Curated shelf names, AppStream tokens, keywords |
-| `listings/category_map.json` | Snap/Flatpak/apt group-key category overrides |
-| `listings/explore.json` | Hero names and category shelves |
-| `listings/staff_picks.json` | Hand-curated Explore shelf |
-| `listings/trending.json` | Popularity snapshot (`window` + scores) |
 | `SCHEMA.md` | Field contract |
 | `CONTENT_POLICY.md` | What we accept |
 
-Staff picks are curated. Trending is a snapshot, not live telemetry — Kestrel
-Labs Cloud may later publish updated rankings into this file.
+Explore Popular, Newest, store categories, and ratings are built by the
+App Manager and Kestrel Labs Cloud. This repo does not ship staff picks,
+trending snapshots, or a category taxonomy.
 
-The App Manager ships a copy of these files and refreshes them from this
-repo on a schedule. The app library still works from the bundled copy if GitHub
-is unreachable. Kestrel Labs Cloud may later publish updated trending
-rankings into this file; the client never fetches listings from Cloud.
+The App Manager ships a copy of `vendor_apps.json` and refreshes it from
+this repo on a schedule. The library still works from the bundled copy if
+GitHub is unreachable.
 
 ## Submit a listing
 
@@ -50,19 +45,13 @@ verification. Do not add `promote`, `sponsored`, or `disclosure`.
 python3 scripts/validate.py
 ```
 
-## First publish (maintainers)
+## Publish updates (maintainers)
 
-This folder is the GitHub source of truth. Create an **empty** GitHub repo
-`kestrel-labs-org/kestrel-catalog` (no README, or the first push will diverge).
-Then from this directory:
+This checkout is the GitHub source of truth:
+https://github.com/kestrel-labs-org/kestrel-catalog
 
 ```bash
-git init
-git add .
-git commit -m "Initial kestrel-catalog listings"
-git branch -M main
-git remote add origin git@github.com:kestrel-labs-org/kestrel-catalog.git
-git push -u origin main
+git push origin main
 ```
 
 Confirm Cloud `.env` has `GITHUB_TOKEN` (scopes `contents:write` and
@@ -73,8 +62,6 @@ checkout. Restart Cloud after the token is set.
 `.github/CODEOWNERS` is `* @kestrellabsAdmin` — that must match the GitHub username that
 should own listing reviews.
 
-After the first push, test admin writeback: reorder a staff pick (small file,
-Contents API) and confirm a commit on `main`. Then save a vendor listing.
 `listings/vendor_apps.json` is over 1 MB, so Cloud commits it with `git push`
 using the token instead of the Contents API.
 
