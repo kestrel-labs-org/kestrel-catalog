@@ -68,26 +68,6 @@
       ]
     },
     {
-      "name": "ExpressVPN",
-      "category": "Security",
-      "kind": "link",
-      "summary": "Commercial VPN with a Linux command-line client",
-      "homepage": "https://www.expressvpn.com",
-      "link_url": "https://www.expressvpn.com/support/vpn-setup/app-for-linux/",
-      "description": "ExpressVPN ships a Linux command-line client as a .deb download tied to your account. Download it from their website while signed in.",
-      "icon": "https://www.expressvpn.com/wp-ws-cache/themes/expressvpn/assets/images/favicon/touch-icon-ipad-retina.png?v=137054"
-    },
-    {
-      "name": "Surfshark",
-      "category": "Security",
-      "kind": "link",
-      "summary": "Commercial VPN with unlimited simultaneous devices",
-      "homepage": "https://surfshark.com",
-      "link_url": "https://surfshark.com/download/linux",
-      "description": "Surfshark's Linux app installs through the vendor's own install script. Follow the instructions on their website.",
-      "icon": "https://surfshark.com/website/_next/public/global/favicon-192.png"
-    },
-    {
       "name": "Windscribe",
       "category": "Security",
       "kind": "repo",
@@ -119,16 +99,6 @@
       "package": "ivpn-ui",
       "description": "IVPN is an audited, open-source VPN service with anonymous accounts and no logging. Install it from IVPN's official apt repository following the instructions on their website.",
       "icon": "https://www.google.com/s2/favicons?domain=www.ivpn.net&sz=256"
-    },
-    {
-      "name": "Private Internet Access",
-      "category": "Security",
-      "kind": "link",
-      "summary": "Commercial VPN with a Linux desktop client",
-      "homepage": "https://www.privateinternetaccess.com",
-      "link_url": "https://www.privateinternetaccess.com/download/linux-vpn",
-      "description": "PIA's Linux client ships as a .run installer from their website rather than a package. Follow the install instructions there.",
-      "icon": "https://www.privateinternetaccess.com/favicon.ico"
     },
     {
       "name": "Tailscale",
